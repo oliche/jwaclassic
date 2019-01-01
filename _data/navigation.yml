@@ -2,25 +2,33 @@
   url: "/"
   side: left
 
-- title: "Voitures"
+- title: "Vehicules"
   url: "/voitures/"
   side: left
-  dropdown:
-  - title: "delage"
-    url: "/delage/"
-  - title: "delahaye"
-    url: "/delahaye/"
-  - title: "talbot"
-    url: "/talbot/"
-  - title: "autres"
-    url: "/voitures_misc/"      
+#  dropdown:
+#  - title: "delage"
+#    url: "/delage/"
+#  - title: "delahaye"
+#    url: "/delahaye/"
+#  - title: "talbot"
+#    url: "/talbot/"
+#  - title: "autres"
+#    url: "/voitures_misc/"
 
-- title: "Historique"
+- title: "Histoires de vehicules"
   url: "/historique/"
   side: left
 
-- title: "Mecanique"
+- title: "Technique"
   url: "/mecanique/"
+  side: left
+
+- title: "La presse d'antan"
+  url: "/presse/"
+  side: left
+
+- title: "Blog et portfolio"
+  url: "/misc/"
   side: left
 
 - title: Archive

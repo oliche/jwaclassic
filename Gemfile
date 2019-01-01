@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'pygments.rb'
+gem 'github-pages'
 gem 'jekyll'
 
 group :jekyll_plugins do

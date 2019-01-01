@@ -1,12 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Voitures"
+title: "Véhicules"
 subheadline: ""
 header:
     image_fullwidth: "banner_delahaye.png"
 permalink: "/voitures/"
 ---
+
+Un petite visite dans une galerie virtuelle de véhicules à vendre ou pas, avant tout pour le plaisir des yeux.
 
 <ul>
     {% for post in site.categories.voitures %}

@@ -1,0 +1,12 @@
+version: '3.1'
+services:
+  site:
+    command: bundle exec jekyll serve --config _config.yml,_config_dev.yml --destination ./_site
+    image: jekyll-jwaclassic:latest
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000
+      - 35729:35729
+    extra_hosts:
+      - "0.0.0.0"
