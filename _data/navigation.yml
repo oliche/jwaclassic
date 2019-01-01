@@ -1,0 +1,32 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Voitures"
+  url: "/voitures/"
+  side: left
+  dropdown:
+  - title: "delage"
+    url: "/delage/"
+  - title: "delahaye"
+    url: "/delahaye/"
+  - title: "talbot"
+    url: "/talbot/"
+  - title: "autres"
+    url: "/voitures_misc/"      
+
+- title: "Historique"
+  url: "/historique/"
+  side: left
+
+- title: "Mecanique"
+  url: "/mecanique/"
+  side: left
+
+- title: Archive
+  url: "/blog/archive/"
+  side: right
+
+- title: "About"
+  url: "/info/"
+  side: right
