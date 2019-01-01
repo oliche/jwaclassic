@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 breadcrumb: true
 title:  "DELAHAYE 135 : la voiture des artistes-carrossiers"
 subheadline:  

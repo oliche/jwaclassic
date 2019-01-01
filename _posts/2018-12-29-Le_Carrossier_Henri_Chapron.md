@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 breadcrumb: true
 title:  "Henri CHAPRON, le grand classicisme français"
 subheadline:  
