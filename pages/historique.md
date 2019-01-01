@@ -4,7 +4,7 @@ show_meta: false
 title: "Historique"
 subheadline: ""
 header:
-    image_fullwidth: "banner_delage.jpg"
+    image_fullwidth: "banner_talbot.png"
 permalink: "/historique/"
 ---
 

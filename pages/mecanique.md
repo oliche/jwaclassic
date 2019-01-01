@@ -4,7 +4,7 @@ show_meta: false
 title: "Mecanique"
 subheadline: ""
 header:
-    image_fullwidth: "banner_talbot.jpg"
+    image_fullwidth: "banner_talbot.png"
 permalink: "/mecanique/"
 ---
 

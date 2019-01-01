@@ -5,7 +5,7 @@ title:  "DELAHAYE 135 : la voiture des artistes-carrossiers"
 subheadline:  
 teaser: 
 categories:
-    - histoire
+    - historique
 tags:
     - delahaye
 image:

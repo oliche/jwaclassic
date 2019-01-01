@@ -5,7 +5,7 @@ title:  "Henri CHAPRON, le grand classicisme français"
 subheadline:  
 teaser: 
 categories:
-    - histoire
+    - historique
 tags:
     - chapron
 image:

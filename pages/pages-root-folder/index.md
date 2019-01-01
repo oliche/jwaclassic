@@ -10,25 +10,18 @@ header:
 widget1:
   title: "Voitures"
   url: '/voitures/'
-  image: home_delage.jpg
+  image: home_voitures.jpg
   text: 'Voitures'
 widget2:
   title: "Historique"
-  image: home_delahaye.jpg
+  image: home_historique.jpg
   url: '/historique/'
   text: 'Historique'
 widget3:
   title: "Mecanique"
   url: '/mecanique/'
-  image: home_talbot.jpg
+  image: home_mecanique.jpg
   text: 'Talbot.'
 permalink: /index.html
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/U0hT9vO_oHA" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
