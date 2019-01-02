@@ -1,17 +1,19 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "Refabrication Collecteurs d'Echappement pour Delahaye 135MS   ""
+title:  "Refabrication Collecteurs d'Echappement pour Delahaye 135MS"
 teaser: ""
 categories:
     - misc
 tags:
     - technique
-	- delahaye
+    - delahaye
 image:
    thumb: ""
 header:
-    image_fullwidth: "banner_delage.jpg"
+    image_fullwidth: "banner_delahaye.png"
+author:
+    - joël
 ---
 
 Nous mettrons en chantier dans les semaines qui viennent la refabrication de collecteurs d'échappement pour moteur de Delahaye 135MS

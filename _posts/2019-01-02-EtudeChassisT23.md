@@ -6,10 +6,10 @@ subheadline:  ""
 teaser: ""
 categories:
     - technique
-	- talbot
+    - talbot
 tags:
     - technique
-	- talbot
+    - talbot
 image:
    thumb: "thumb_rochet.png"
 header:
