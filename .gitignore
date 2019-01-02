@@ -1,4 +1,5 @@
 images/
 _site/
 .idea/
+.sass-cache/
 Gemfile.lock
