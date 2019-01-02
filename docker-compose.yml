@@ -1,12 +1,10 @@
+# in the current directory, run: docker-compose up
 version: '3.1'
 services:
   site:
-    command: bundle exec jekyll serve --config _config.yml,_config_dev.yml --destination ./_site
+    command: bundle exec jekyll serve --config _config.yml,_config_dev.yml --destination ./_site --watch --host 0.0.0.0
     image: jekyll-jwaclassic:latest
     volumes:
       - .:/srv/jekyll
     ports:
       - 4000:4000
-      - 35729:35729
-    extra_hosts:
-      - "0.0.0.0"
