@@ -1,0 +1,10 @@
+# in the current directory, run: docker-compose up
+version: '3.1'
+services:
+  site:
+    command: bundle exec jekyll build
+    image: jekyll-jwaclassic:latest
+    volumes:
+      - .:/srv/jekyll
+    ports:
+      - 4000:4000

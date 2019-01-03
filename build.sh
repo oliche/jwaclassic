@@ -1,4 +1,4 @@
-# cd feeling-responsive-ow-pages
-# jekyll build --destination ../_site
-# cd ..
-# cp -R feeling-responsive-ow-pages/ ./_site/.src
+CHEM=/home/olivier/Documents/jwaclassic
+cd $CHEM
+
+docker-compose -f docker-compose-build.yml up
