@@ -75,7 +75,11 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
-
+    - docker-compose.yml
+    - docker-compose-build.yml
+    - Dockerfile
+    - build.sh
+    - build_local.sh
 
 # The language setting is used in /includes/header.html for html-settings
 language: 'en'

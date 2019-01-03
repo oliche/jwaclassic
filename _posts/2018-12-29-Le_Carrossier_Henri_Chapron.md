@@ -19,3 +19,4 @@ A mi-chemin entre les lignes délibérément « futuristes » de certains et les
 Ci-dessous, la majestueuse D8 120 carrossée en 1937 par Henri Chapron
 
 ![1937-Delage D8-120 Cabriolet Chapron]({{ site.urlimg }}1937-Delage D8-120 Cabriolet Chapron.jpg)
+*Delage D8-120, 1937*
