@@ -36,7 +36,7 @@ widget6:
   title: "Archives"
   image: home_archive.png
   url: '/blog/archive/'
-  text: 'Tous les articles.'
+  text: 'Tous les articles'
 permalink: /index.html
 homepage: true
 ---
