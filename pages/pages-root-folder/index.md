@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: banner_delahaye.png
+  image_fullwidth: Banner-Delahaye-818003.jpg
 widget1:
   title: "Véhicules"
   url: '/voitures/'
