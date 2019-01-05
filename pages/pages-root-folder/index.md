@@ -11,7 +11,7 @@ widget1:
   title: "Véhicules"
   url: '/voitures/'
   image: home_voitures.jpg
-  text: 'Voitures'
+  text: 'Ici nous parlons des Voitures de Collection'
 widget2:
   title: "Historique"
   image: home_historique.jpg
