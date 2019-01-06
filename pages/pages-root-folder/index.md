@@ -21,7 +21,7 @@ widget3:
   title: "Technique"
   url: '/technique/'
   image: home_mecanique.jpg
-  text: 'Quelques retours d expériences sans oublier le suivi des restaurations'
+  text: 'Le suivi des entretiens et celui des restaurations'
 widget4:
   title: "Presse d'antan"
   url: '/presse/'

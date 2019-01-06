@@ -5,6 +5,7 @@ title:  "DELAHAYE 135 MS : Refabrication Collecteurs d'Echappement"
 teaser: ""
 categories:
     - misc
+    - technique
 tags:
     - technique
     - delahaye
