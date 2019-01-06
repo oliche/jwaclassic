@@ -2,7 +2,7 @@
 layout: page-fullwidth
 breadcrumb: true
 title:  "1930-ROCHET-SCHNEIDER 26-SIX - Châssis 29539"
-subheadline:  ""
+subheadline:  "Véhicule à vendre"
 teaser: "« Au-delà de tous les superlatifs »"
 categories:
     - voitures
@@ -12,14 +12,17 @@ tags:
 image:
    thumb: "thumb_rochet.png"
 header:
-    image_fullwidth: "banner_delage.jpg"
+    image_fullwidth: "Banner-Rochet-Schneider-29539.jpg"
 ---
 
 Sa restauration a été engagée début 2011 sur une base très saine car le véhicule n’avait jamais fait l’objet d’aucune restauration au préalable.
 Ceci a permis de rester, avec certitude, au plus près de son état d’origine. 
 En octobre 2011, La Rochet-Schneider 26-Six N°29 539 a participé au Concours d’Elégance de Deauville et a successivement remporté : 
-Le Volant d’Or
+
 Le Best of Show
+
+Le Volant d’Or
+
 Le Grand Prix du Jury pour le concours d’état
 
 « __Au-delà de tous les superlatifs__ »
