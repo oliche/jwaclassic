@@ -8,7 +8,7 @@ header:
 permalink: "/technique/"
 ---
 
-Cette rubrique recense d’une part des conseils recueillis dans de la documentation exclusivement d’époque (toujours intéressante à re-découvrir) et d’autre part le partage d’expérience menée à notre époque.
+Cette rubrique recense d’une part des conseils recueillis dans de la documentation exclusivement d’époque (toujours intéressante à re-découvrir) et d’autre part le partage d’expériences menées de nos jours.
 
 <ul>
     {% for post in site.categories.technique %}

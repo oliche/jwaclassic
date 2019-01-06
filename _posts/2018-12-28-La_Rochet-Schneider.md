@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "1930-Rochet-Schneider 26-SIX - Châssis 29 539"
+title:  "1930-ROCHET-SCHNEIDER 26-SIX - Châssis 29539"
 subheadline:  ""
 teaser: "« Au-delà de tous les superlatifs »"
 categories:

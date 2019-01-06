@@ -13,20 +13,20 @@ widget1:
   image: home_voitures.jpg
   text: 'Le coin réservé des Voitures de Collection qui roulent!'
 widget2:
-  title: "Historique"
+  title: "Historiques"
   image: home_historique.jpg
   url: '/historique/'
   text: 'Un retour sur des Histoires de Belles Anciennes qui sortent en général de l ordinaire'
 widget3:
-  title: "Mécanique"
-  url: '/mecanique/'
+  title: "Technique"
+  url: '/technique/'
   image: home_mecanique.jpg
-  text: 'Quelques informations, trucs et expériences sur le thème général de "la Mécanique"'
+  text: 'Quelques retours d expériences sans oublier le suivi des restaurations'
 widget4:
   title: "Presse d'antan"
   url: '/presse/'
   image: home_presse.jpg
-  text: "Dans la presse d'époque, il arrive de faire des découvertes instructives"
+  text: "Dans la presse et les écrits d'époque, il arrive de faire des découvertes instructives"
 widget5:
   title: "Blog & Porfolio"
   image: home_misc.jpg

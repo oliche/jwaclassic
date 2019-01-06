@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "Refabrication Collecteurs d'Echappement pour Delahaye 135MS"
+title:  "DELAHAYE 135 MS : Refabrication Collecteurs d'Echappement"
 teaser: ""
 categories:
     - misc
 tags:
-    - mecanique
+    - technique
     - delahaye
 image:
    thumb: ""

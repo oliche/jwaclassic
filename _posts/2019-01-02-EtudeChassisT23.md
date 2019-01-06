@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "Talbot T23 BABY – 4L - Etude d’un châssis spécial (n° 93267)"
+title:  "Talbot T23 BABY - Cabriolet Usine - Etude d’un châssis spécial (n° 93267)"
 subheadline:  ""
 teaser: ""
 categories:
