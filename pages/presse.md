@@ -4,7 +4,7 @@ show_meta: false
 title: "Presse d'antan"
 subheadline: ""
 header:
-    image_fullwidth: "banner_delahaye.png"
+    image_fullwidth: "Banner_Presse.jpg"
 permalink: "/presse/"
 ---
 

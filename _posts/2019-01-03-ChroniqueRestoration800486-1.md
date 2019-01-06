@@ -1,11 +1,10 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "Restauration d'un cabriolet Delahaye 135"
+title:  "Restauration d'une DELAHAYE - Etape 1 : Présentation du véhicule"
 
-subheadline:  
-teaser: "Delahaye 135MS – 1947 – Cabriolet 2 places Chapron – Modèle Vedette - 
-Post 1"
+subheadline: "Chronique d'une restauration" 
+teaser: "Une des rares DELAHAYE carrossée en Cabriolet deux places par Henri Chapron"
 categories:
     - technique
 tags:
@@ -14,13 +13,13 @@ tags:
 image:
     thumb: "2019-01-03-Rest800486-1.jpg"
 header:
-    image_fullwidth: "banner_delahaye.png"
+    image_fullwidth: "Banner-Delahaye-800486.png"
 ---
 
 
-La Delahaye 135MS 800486 est sortie des ateliers H. Chapron aux mains de son premier propriétaire Arthur Dandelot au début de l’année 1948. Quatorze ans plus tard, en 1962, elle était acquise par mon ami Hubert, jeune étudiant en architecture, qui me la céda en 2017 sans presque avoir roulé avec pendant … 55 ans. 
+La Delahaye 135MS 800486 est sortie des ateliers H. Chapron au début de l’année 1948. Quatorze ans plus tard, en 1962, elle était acquise par mon ami Hubert, alors jeune étudiant en architecture, qui me la cédera en 2017 sans presque avoir roulé avec pendant … 55 ans. 
 
-La restauration a débuté au tout début de l’année 2018. L’objectif est de restituer le véhicule au plus proche de ce qu’elle était en 1947 alors qu’elle trônait sur le stand Henri Chapron au Salon de Paris.
+La restauration a débuté au tout début de l’année 2018. L’objectif est de restituer le véhicule au plus proche de ce qu’il était en 1947 alors qu’il trônait sur le stand Henri Chapron au Salon de Paris.
 
 ![Salon de Paris 1947]({{ site.urlimg }}2019-01-03-Rest800486-1.jpg)
 *DELAHAYE 135 MS - Vedette - 1947* 

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "1930-ROCHET-SCHNEIDER 26-SIX - Châssis 29539"
+title:  "ROCHET-SCHNEIDER 26-SIX - 1929"
 subheadline:  "Véhicule à vendre"
 teaser: "« Au-delà de tous les superlatifs »"
 categories:
