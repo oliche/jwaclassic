@@ -8,7 +8,7 @@ header:
 permalink: "/misc/"
 ---
 
-Ici, c’est un peu le fourre-tout ou l’on parlera essentiellement des sujets d’actualité.
+Ici, c’est un peu le fourre-tout ou l’on parle essentiellement des sujets d’actualité.
 
 <ul>
     {% for post in site.categories.misc %}

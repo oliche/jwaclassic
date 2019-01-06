@@ -6,7 +6,7 @@ teaser: ""
 categories:
     - misc
 tags:
-    - technique
+    - mecanique
     - delahaye
 image:
    thumb: ""
