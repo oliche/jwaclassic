@@ -8,6 +8,7 @@ Se mettre sur la branche develop
 ## Installer Linux Subsystem for Windows
 
 Activer Linux subsystem for Windows: dans Power shell (en tant qu' administrateur)
+
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
 Telecharger l'app WIndows Ubuntu par le Microsoft Store, installer et lancer
