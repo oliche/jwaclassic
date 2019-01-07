@@ -12,6 +12,9 @@ Activer Linux subsystem for Windows: dans Power shell (en tant qu' administrateu
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 
 Telecharger l'app WIndows Ubuntu par le Microsoft Store, installer et lancer
+ou dans Powershell en tant qu'administrateur, écrire la commande suivante :
+
+    lxrun /install
 
 ## Dans l'invite de commande Ubuntu, installer Jekyll
 
