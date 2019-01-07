@@ -4,7 +4,7 @@ show_meta: false
 title: "Véhicules"
 subheadline: ""
 header:
-    image_fullwidth: "Banner-Mosaic.jpg"
+    image_fullwidth: "banner_delahaye.png"
 permalink: "/voitures/"
 ---
 
