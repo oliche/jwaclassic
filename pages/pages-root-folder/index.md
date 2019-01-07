@@ -25,7 +25,7 @@ widget3:
 widget4:
   title: "Presse d'antan"
   url: '/presse/'
-  image: home_presse.jpg
+  image: home_presse-1.jpg
   text: "Dans la presse et les écrits d'époque, il arrive de faire des découvertes instructives"
 widget5:
   title: "Blog & Porfolio"

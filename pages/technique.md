@@ -4,7 +4,7 @@ show_meta: false
 title: "Technique"
 subheadline: ""
 header:
-    image_fullwidth: "banner_talbot.png"
+    image_fullwidth: "banner_technique.jpg"
 permalink: "/technique/"
 ---
 
