@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "Remise à neuf d’un faisceau électrique "
+title:  "TALBOT T150C - Remise à neuf d’un faisceau électrique "
 
-subheadline: "Travaux d'électricté" 
+subheadline: "Travaux d'électricité" 
 teaser: "Dilemme sécurité-fiabilité versus estéthique"
 categories:
     - technique
@@ -53,3 +53,5 @@ Dans cette restauration partielle, nous avons privilégié les objectifs de séc
 ![Travail fini]({{ site.urlimg }}20190108fini-1.jpg)
 
 ![Boîte à fusibles]({{ site.urlimg }}20190108-boitefusiblefermee.jpg)
+
+Un grand merci à Pierre VINOY

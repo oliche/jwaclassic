@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "TALBOT T23 - Etude d’un châssis spécial"
-subheadline:  ""
+title: "TALBOT T23 - Etude d’un châssis spécial"
+subheadline:
 teaser: "TALBOT T23 BABY - Cabriolet 4 places - Usine - Châssis N° 93267"
 categories:
     - technique
