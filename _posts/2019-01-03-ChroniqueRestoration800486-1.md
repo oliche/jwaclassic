@@ -3,7 +3,7 @@ layout: page-fullwidth
 breadcrumb: true
 title:  "Restauration d'une DELAHAYE - Etape 1 : Présentation du véhicule"
 
-subheadline: "Chronique d'une restauration" 
+subheadline: "Chronique" 
 teaser: "Une des rares DELAHAYE carrossée en Cabriolet deux places par Henri Chapron"
 categories:
     - technique
