@@ -16,7 +16,7 @@ header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 ---
 
-Nous sommes en février 2017, l’examen attentif du véhicule dans son état actuel débute. David et moi tractons la voiture sur notre pont. Ce n’est pas trop difficile car le moteur a été déposé et confié à un rectifieur.
+Nous sommes en février 2017,nous avons pour la première fois le véhicule à notre disposition excusive. L’examen attentif du véhicule dans son état actuel débute. David et moi tractons la voiture sur notre pont. Ce n’est pas trop difficile car le moteur a été déposé et confié à un rectifieur.
 Sur les murs de l’atelier nous avons affiché des agrandissements des photos de 1962 (cf : « l’histoire »). Nous nous sommes habitués à ses reposantes couleurs en deux tons de bleus. Mais il faut reconnaître que dans sa très sérieuse livrée noire, elle affiche aussi une certaine allure.
 
 ![Pont]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -000.JPG)  
