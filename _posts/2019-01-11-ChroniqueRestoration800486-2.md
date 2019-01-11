@@ -19,7 +19,7 @@ header:
 Nous sommes en février 2017, l’examen attentif du véhicule dans son état actuel débute. David et moi tractons la voiture sur notre pont. Ce n’est pas trop difficile car le moteur a été déposé et confié à un rectifieur.
 Sur les murs de l’atelier nous avons affiché des agrandissements des photos de 1962 (cf : « l’histoire »). Nous nous sommes habitués à ses reposantes couleurs en deux tons de bleus. Mais il faut reconnaître que dans sa très sérieuse livrée noire, elle affiche aussi une certaine allure.
 
-![Pont]({{ site.urlimg }}COPIE TEST.JPG)  
+![Pont]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -000.JPG)  
 
 Un de nos premiers soucis consiste à essayer de retrouver une trace de peinture bleue mais il faut reconnaître que le travail de maquillage a été bien fait : la tôle a été mise à nue. Mais à moins d’absolument tout démonter, il n’est pas possible d’éliminer complétement l’ancienne teinte : on devrait bien pouvoir trouver des traces quelque part. 
 En attendant, on admirera au passage la ligne de la portière avec la poignée intégrée dans la moulure. Bravo Mr Chapron
