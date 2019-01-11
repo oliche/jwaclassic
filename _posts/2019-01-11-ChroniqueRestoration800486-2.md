@@ -24,35 +24,35 @@ Sur les murs de l’atelier nous avons affiché des agrandissements des photos d
 Un de nos premiers soucis consiste à essayer de retrouver une trace de peinture bleue mais il faut reconnaître que le travail de maquillage a été bien fait : la tôle a été mise à nue. Mais à moins d’absolument tout démonter, il n’est pas possible d’éliminer complétement l’ancienne teinte : on devrait bien pouvoir trouver des traces quelque part. 
 En attendant, on admirera au passage la ligne de la portière avec la poignée intégrée dans la moulure. Bravo Mr Chapron
 
-![Portière]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -001.JPG)  
+![Portière]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -001.jpg)  
 
 Même l’intérieur du compartiment moteur a été entièrement repeint :
 
-![Compartiment moteur]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -002.JPG)  
+![Compartiment moteur]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -002.jpg)  
 
 Le tableau de bord a été complètement saccagé :
 
-![Tableau de bord]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -003.JPG)  
+![Tableau de bord]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -003.jpg)  
 
 La fausse plaque, une simple tôle plate (ça, c’est pas du travail « Chapron ») découpée approximativement et peinte à la hâte, est encore dans le coffre :
 
-![Fausse plaque]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -004.JPG)  
+![Fausse plaque]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -004.jpg)  
 
 Nous trouvons enfin le numéro Chapron sur la traverse avant de la capote : 6593. En fait, ce n’est pas vraiment une découverte car c’est grâce à ce numéro que la voiture a pu être identifiée et rendue à son propriétaire.
 
-![Numero Chapron]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -005.JPG)  
+![Numero Chapron]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -005.jpg)  
 
 En revanche le « 93 » frappé à l’intérieur des enjoliveurs de montants de porte est une véritable découverte. Ce ne sera pas la seule
 
-![Enjoliveurs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -006.JPG)  
+![Enjoliveurs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -006.jpg)  
 
 Les cuirs ne sont pas dans un état de fraîcheur qui nous laissent espérer de pouvoir les sauver.
 
-![Cuirs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -007.JPG)  
+![Cuirs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -007.jpg)  
 
 Et les bois, qu’Hubert pensaient bien conservés vont nous donner du travail
 
-![Bois]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -008.JPG)  
+![Bois]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -008.jpg)  
 
 On continue l’état des lieux dans le prochain post. 
 
