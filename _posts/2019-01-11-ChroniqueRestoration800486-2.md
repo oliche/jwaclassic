@@ -54,5 +54,5 @@ Et les bois, qu’Hubert pensaient bien conservés vont nous donner du travail
 
 ![Bois]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -008.jpg)  
 
-On continue l’état des lieux dans le prochain post. 
+On continue l’état des lieux dans le prochain post.  
 
