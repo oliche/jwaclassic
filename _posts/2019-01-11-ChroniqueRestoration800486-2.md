@@ -24,21 +24,35 @@ Sur les murs de l’atelier nous avons affiché des agrandissements des photos d
 Un de nos premiers soucis consiste à essayer de retrouver une trace de peinture bleue mais il faut reconnaître que le travail de maquillage a été bien fait : la tôle a été mise à nue. Mais à moins d’absolument tout démonter, il n’est pas possible d’éliminer complétement l’ancienne teinte : on devrait bien pouvoir trouver des traces quelque part. 
 En attendant, on admirera au passage la ligne de la portière avec la poignée intégrée dans la moulure. Bravo Mr Chapron
 
-Photo 2
+![Portière]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -001.JPG)  
 
 Même l’intérieur du compartiment moteur a été entièrement repeint :
-Photo 3
+
+![Compartiment moteur]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -002.JPG)  
+
 Le tableau de bord a été complètement saccagé :
-Photo 4
+
+![Tableau de bord]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -003.JPG)  
+
 La fausse plaque, une simple tôle plate (ça, c’est pas du travail « Chapron ») découpée approximativement et peinte à la hâte, est encore dans le coffre :
-Photo 5
+
+![Fausse plaque]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -004.JPG)  
+
 Nous trouvons enfin le numéro Chapron sur la traverse avant de la capote : 6593. En fait, ce n’est pas vraiment une découverte car c’est grâce à ce numéro que la voiture a pu être identifiée et rendue à son propriétaire.
-Photo 6
+
+![Numero Chapron]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -005.JPG)  
+
 En revanche le « 93 » frappé à l’intérieur des enjoliveurs de montants de porte est une véritable découverte. Ce ne sera pas la seule
-Photo 7
+
+![Enjoliveurs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -006.JPG)  
+
 Les cuirs ne sont pas dans un état de fraîcheur qui nous laissent espérer de pouvoir les sauver.
-Photo 8
+
+![Cuirs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -007.JPG)  
+
 Et les bois, qu’Hubert pensaient bien conservés vont nous donner du travail
-Photo 9
+
+![Bois]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -008.JPG)  
+
 On continue l’état des lieux dans le prochain post. 
 
