@@ -50,9 +50,9 @@ Les cuirs ne sont pas dans un état de fraîcheur qui nous laissent espérer de 
 
 ![Cuirs]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -007.jpg)  
 
-Et les bois, qu’Hubert pensaient bien conservés vont nous donner du travail
+Et les bois, qu’Hubert pensaient bien conservés vont nous donner du travail.
 
 ![Bois]({{ site.urlimg }}2019-01-11-Restauration Delahaye Post 2 -008.jpg)  
 
-On continue l’état des lieux dans le prochain post.  
+On continue l’état des lieux dans le prochain post. 
 
