@@ -23,14 +23,20 @@ Les traces de bleu clair :
 ![Traces de bleu clair]({{ site.urlimg }}2019-01-14-Restauration Delahaye Post 3-010.jpg)
 
 
+
 Les numéros « Chapron »
 Nous en avons trouvé deux autres, écrits au crayon gras dont un sur le bois du repose-valise arrière  :
+
 ![Numero Chapron]({{ site.urlimg }}2019-01-14-Restauration Delahaye Post 3-004.jpg)
 
 
+
 De plus près (et dans le sens de la lecture), on arrive à mieux distinguer
+
 ![Numero Chapron]({{ site.urlimg }}2019-01-14-Restauration Delahaye Post 3-005.JPG)
 
 
+
 Pour ce qui est des numéros frappés, ils sont plus nombreux, notamment sur les marchepieds et les attaches de pare-chocs
+
 ![Numeros frappés]({{ site.urlimg }}2019-01-14-Restauration Delahaye Post 3-011.jpg)
