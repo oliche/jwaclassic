@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Presse d'antan"
+title: "Documentation"
 subheadline: ""
 header:
     image_fullwidth: "Banner_Presse.jpg"
