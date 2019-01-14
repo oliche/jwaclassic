@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "Vehicules"
+- title: "Véhicules"
   url: "/voitures/"
   side: left
 #  dropdown:
@@ -15,7 +15,7 @@
 #  - title: "autres"
 #    url: "/voitures_misc/"
 
-- title: "Histoires de vehicules"
+- title: "Histoires de véhicules"
   url: "/historique/"
   side: left
 
@@ -23,8 +23,8 @@
   url: "/technique/"
   side: left
 
-- title: "La presse d'antan"
-  url: "/presse/"
+- title: "Documentation"
+  url: "/documentation/"
   side: left
 
 - title: "Blog et portfolio"
