@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Presse d'antan"
+title: "Documentation"
 subheadline: ""
 header:
     image_fullwidth: "Banner_Presse.jpg"
-permalink: "/presse/"
+permalink: "/documentation/"
 ---
 
 Vous trouverez ici une reproduction des informations recueillies dans la lecture de la presse contemporaine à nos belles anciennes. Vous y trouverez aussi des brochures d’époque.

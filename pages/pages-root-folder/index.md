@@ -23,8 +23,8 @@ widget3:
   image: home_mecanique.jpg
   text: 'Le suivi des entretiens et celui des restaurations'
 widget4:
-  title: "Presse d'antan"
-  url: '/presse/'
+  title: "Documentation"
+  url: '/documentation/'
   image: home_presse.jpg
   text: "Dans la presse et les écrits d'époque, il arrive de faire des découvertes instructives"
 widget5:
