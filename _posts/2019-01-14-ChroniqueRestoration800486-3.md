@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "Restauration d'une DELAHAYE - Etape 3 : A la recherche des traces..."
+title:  "DELAHAYE 800486 Restauration-3 : Tour du véhicule 2"
 
 subheadline: "Chronique" 
 teaser: "Sur la piste des traces..."
@@ -9,7 +9,7 @@ categories:
     - technique
 tags:
     - chapron
-    - DELAHAYE
+    - delahaye
 image:
     thumb: "2019-01-03-Rest800486-1.jpg"
 header:
