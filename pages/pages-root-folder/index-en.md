@@ -8,36 +8,36 @@ layout: frontpage
 header:
   image_fullwidth: Banner-Delahaye-818003.jpg
 widget1:
-  title: "Véhicules"
+  title: "Vehicles"
   url: '/voitures/'
   image: home_voitures.jpg
-  text: 'Le coin réservé des Voitures de Collection qui roulent!'
+  text: 'Running classic cars'
 widget2:
-  title: "Historiques"
+  title: "History"
   image: home_historique.jpg
   url: '/historique/'
-  text: 'Un retour sur des Histoires de Belles Anciennes qui sortent en général de l ordinaire'
+  text: 'Flasback on out of the ordinary vehicles'
 widget3:
-  title: "Technique"
+  title: "Workshop"
   url: '/technique/'
   image: home_mecanique.jpg
-  text: 'Le suivi des entretiens et celui des restaurations'
+  text: 'Restauration anc care of classic vehicles'
 widget4:
-  title: "Documentation"
+  title: "Documents"
   url: '/documentation/'
   image: home_presse.jpg
-  text: "Dans la presse et les écrits d'époque, il arrive de faire des découvertes instructives"
+  text: "Contemporary newspapers can lead to interesting material"
 widget5:
-  title: "Blog & Porfolio"
+  title: "News"
   image: home_misc.jpg
   url: '/misc/'
-  text: 'Actualités et diverses informations au fil de l eau'
+  text: 'Blog & Porfolio'
 widget6:
   title: "Archives"
   image: home_archive.png
   url: '/blog/archive/'
-  text: 'Tous les articles'
+  text: 'All publications'
 permalink: /index.html
 homepage: true
-lang: fr
+lang: en
 ---
