@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 CHEM=/home/olivier/Documents/jwaclassic
 DROPBOX_IMAGES=/home/olivier/Dropbox/#_Site_internet_JWA/Images
 rsync -av --progress  $DROPBOX_IMAGES/* $CHEM/images/
