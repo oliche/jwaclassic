@@ -35,6 +35,10 @@
   url: "/blog/archive/"
   side: right
 
+- title: 'Recherche'
+  url: "/search/"
+  side: right
+
 - title: "A Propos"
   url: "/info/"
   side: right
