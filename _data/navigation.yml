@@ -39,6 +39,11 @@
   url: "/search/"
   side: right
 
-- title: "A Propos"
-  url: "/info/"
+- title: 'EN'
+  url: "/en/"
   side: right
+
+- title: 'FR'
+  url: ""
+  side: right
+
