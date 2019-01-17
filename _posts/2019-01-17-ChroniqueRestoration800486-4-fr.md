@@ -48,4 +48,4 @@ A mi décembre 2017, le bloc avant est déposé
 
 Mais il reste le bloc arrière, et lui, n’est pas monté en deux parties
 
-![Bloc arrière]({{ site.urlimg }}2019-01-17-Restauration Delahaye Post 4 -005.jpg)
+![Bloc arrière]({{ site.urlimg }}2019-01-17-Restauration Delahaye Post 4 -005.JPG)
