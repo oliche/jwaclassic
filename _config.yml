@@ -45,10 +45,11 @@ urlimg:  'http://www.jwaclassic.com/images/'
 logo: "logo.png"
 
 # Gems
-gems:
+plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-polyglot
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -82,8 +83,13 @@ exclude:
     - build_local.sh
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'fr'
 
+# Language support provided by polyglot plugin
+languages: ["fr", "en"]
+default_lang: "fr"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: false
 
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de

@@ -12,6 +12,8 @@ image:
    thumb: "thumb_delahaye.png"
 header:
     image_fullwidth: "banner_delahaye.png"
+lang: fr
+permalink: 2018-12-29-Le_Modele_Delahaye_135
 ---
 
 La marque DELAHAYE est certainement de celles qui ont le plus fait rêver les amateurs de belles carrosseries dans la période de l’entre-deux guerres.

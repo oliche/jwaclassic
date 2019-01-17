@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-asciidoc"
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-livereload'
+  gem 'jekyll-polyglot'
 end
 
 gem 'asciidoctor'
