@@ -18,7 +18,7 @@ header:
 lang: en
 permalink: 2019-01-17-ChroniqueRestoration800486-4
 ---
-Nous sommes au mois de novembre 2017 et nous commençons le démontage. Chacun sait qu’il s’agit là de l’étape qui demande le plus d’organisation et de documentation.
+tNous sommes au mois de novembre 2017 et nous commençons le démontage. Chacun sait qu’il s’agit là de l’étape qui demande le plus d’organisation et de documentation.
 Aussi, nous avons fait place nette dans l’atelier pour accueillir la voiture et toutes les pièces détachées pendant les mois de remontage. 
 
 ![Atelier]({{ site.urlimg }}2019-01-17-Restauration Delahaye Post 4 -001.jpg)
