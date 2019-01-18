@@ -3,6 +3,7 @@ layout: page
 title: "Mentions Légales"
 subheadline: ""
 permalink: "/info/"
+lang: fr
 header:
     image_fullwidth: "banner_delahaye.png"
 ---

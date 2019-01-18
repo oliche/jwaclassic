@@ -6,6 +6,7 @@ subheadline: ""
 header:
     image_fullwidth: "Banner_Presse.jpg"
 permalink: "/documentation/"
+lang: fr
 ---
 
 Vous trouverez ici une reproduction des informations recueillies dans la lecture de la presse contemporaine à nos belles anciennes. Vous y trouverez aussi des brochures d’époque.

@@ -6,6 +6,7 @@ subheadline: ""
 header:
     image_fullwidth: "banner_talbot.png"
 permalink: "/misc/"
+lang: fr
 ---
 
 Ici, c’est un peu le fourre-tout ou l’on parle essentiellement des sujets d’actualité.
