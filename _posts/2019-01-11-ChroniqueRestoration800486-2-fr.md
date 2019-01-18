@@ -14,6 +14,8 @@ image:
     thumb: "2019-01-03-Rest800486-1.jpg"
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
+lang: fr
+permalink: 2019-01-11-ChroniqueRestoration800486-2
 ---
 
 Nous sommes en février 2017. Pour la première fois, le véhicule à notre disposition exclusive. L’examen attentif du véhicule dans son état actuel débute donc. David et moi tractons la voiture sur notre pont. Ce n’est pas trop difficile car le moteur a été déposé et confié à un rectifieur.

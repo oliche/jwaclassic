@@ -14,6 +14,8 @@ image:
     thumb: "2019-01-03-Rest800486-1.jpg"
 header:
     image_fullwidth: "BannerTalbot90010.JPG"
+lang: fr
+permalink: 2019-01-08-Faisceau_Electrique.md
 ---
 
 

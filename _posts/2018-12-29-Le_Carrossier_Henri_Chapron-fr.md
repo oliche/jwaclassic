@@ -12,6 +12,8 @@ image:
    thumb: "thumb_delahaye.png"
 header:
     image_fullwidth: "banner_delahaye.png"
+lang: fr
+permalink: 2018-12-29-Le_Carrossier_Henri_Chapron
 ---
 
 

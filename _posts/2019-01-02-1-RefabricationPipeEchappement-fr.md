@@ -15,6 +15,8 @@ header:
     image_fullwidth: "banner_delahaye.png"
 author:
     - joël
+lang: fr
+permalink: 2019-01-02-1-RefabricationPipeEchappement
 ---
 
 Nous mettrons en chantier dans les semaines qui viennent la refabrication de collecteurs d'échappement pour moteur de Delahaye 135MS

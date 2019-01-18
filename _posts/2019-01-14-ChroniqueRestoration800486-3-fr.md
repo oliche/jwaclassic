@@ -14,6 +14,8 @@ image:
     thumb: "2019-01-03-Rest800486-1.jpg"
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
+lang: fr
+permalink: 2019-01-14-ChroniqueRestoration800486-3
 ---
 
 Avant de commencer franchement le démontage, nous avons continué à chasser avec une délicatesse de Sioux des traces permettant de confirmer la véritable identité de la voiture. Deux recherches nous motivaient : les traces de peinture bleue en premier lieu et, en second lieu, les « signatures » qu’avaient immanquablement dû laisser le carrossier.

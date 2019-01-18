@@ -13,6 +13,8 @@ image:
    thumb: "thumb_rochet.png"
 header:
     image_fullwidth: "Banner-Rochet-Schneider-29539.jpg"
+lang: fr
+permalink: 2018-12-28-La_Rochet-Schneider
 ---
 
 Sa restauration a été engagée début 2011 sur une base très saine car le véhicule n’avait jamais fait l’objet d’aucune restauration au préalable.
