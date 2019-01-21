@@ -16,7 +16,7 @@ lang: fr
 permalink: 19-01-21_Restauration DELAHAYE-Post 05
 ---
 Le démontage du bloc arrière ne fut pas simple, non pas tellement parce qu’il est lourd et imposant mais essentiellement parce qu’il a été façonné et soudé sur le châssis. En conséquence, il nous a fallu tordre et détordre un grand nombre de tôles de fixation pour pouvoir enlever les clous et désolidariser le métal du bois.
-Il a fallu étayer
+Il a fallu étayer.
 
 ![Bloc arrière 0]({{ site.urlimg }}19-01-21_Restauration DELAHAYE-Post 05 -000.JPG)
 
