@@ -6,6 +6,7 @@ subheadline: "Chronique"
 teaser: "Châssis nu !"
 categories:
     - technique
+    - voitures
 tags:
     - delahaye
 image:
