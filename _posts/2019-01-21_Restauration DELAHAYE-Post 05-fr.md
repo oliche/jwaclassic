@@ -10,9 +10,9 @@ categories:
 tags:
     - delahaye
 image:
-   thumb: "thumb_delahaye.png"
+    thumb: "2019-01-03-Rest800486-1.jpg"
 header:
-    image_fullwidth: "banner_delahaye.png"
+    image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
 permalink: 2019-01-21_Restauration DELAHAYE-Post 05
 ---
