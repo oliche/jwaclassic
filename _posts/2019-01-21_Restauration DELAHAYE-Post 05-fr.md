@@ -5,7 +5,7 @@ title:  "DELAHAYE 800486 – Restauration 5 – Démontage 2"
 subheadline: "Chronique"
 teaser: "Bloc arrière"
 categories:
-    - historique
+    - technique
 tags:
     - delahaye
 image:
