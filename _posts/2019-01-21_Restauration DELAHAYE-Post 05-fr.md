@@ -2,6 +2,7 @@
 layout: page-fullwidth
 breadcrumb: true
 title:  "DELAHAYE 800486 – Restauration 5 – Démontage 2"
+
 subheadline: "Chronique"
 teaser: "Bloc arrière"
 categories:
