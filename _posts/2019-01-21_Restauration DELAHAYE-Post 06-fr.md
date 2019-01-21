@@ -5,7 +5,6 @@ title:  "DELAHAYE 800486 – Restauration 6 – Démontage 3"
 subheadline: "Chronique"
 teaser: "Châssis nu !"
 categories:
-    - technique
     - voitures
 tags:
     - delahaye
