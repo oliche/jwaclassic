@@ -25,12 +25,12 @@ Il a fallu étayer.
 ![Bloc arrière 1]({{ site.urlimg }}2019-01-21_Restauration DELAHAYE-Post 05 -001.JPG)
 
 
-Il a fallu employer les grands moyens
+Il a fallu employer les grands moyens.
 
 ![Bloc arrière 3]({{ site.urlimg }}2019-01-21_Restauration DELAHAYE-Post 05 -003.JPG)
 
 
-Mais à la veille de Noël 2017, le bloc était déposé et le châssis pas très loin de se retrouver tout nu avec ses roues
+Mais à la veille de Noël 2017, le bloc était déposé et le châssis pas très loin de se retrouver tout nu avec ses roues.
 
 ![Bloc arrière 4]({{ site.urlimg }}2019-01-21_Restauration DELAHAYE-Post 05 -004.JPG)
 
