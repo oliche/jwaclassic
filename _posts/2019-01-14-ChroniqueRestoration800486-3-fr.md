@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 Restauration-3 : Tour du véhicule 2"
+title:  "DELAHAYE 800486 - Restauration 3 : Tour du véhicule 2"
 
 subheadline: "Chronique" 
 teaser: "Sur la piste des traces..."
