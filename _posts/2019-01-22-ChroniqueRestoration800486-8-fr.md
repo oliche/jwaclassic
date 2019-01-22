@@ -22,14 +22,14 @@ A la mi-janvier 2018, tous les éléments de caisse sont prêts à être envoyé
 ![Elements de caisse]({{ site.urlimg }}2019-01-22-Restauration DELAHAYE-Post 08 -000.JPG)
  
  
+ 
 Les ailes Avant :
 
 ![Ailes avant]({{ site.urlimg }}2019-01-22-Restauration DELAHAYE-Post 08 -001.JPG)
 
 
-Le bloc arrière et le capot :
 
-Photo 2,3, 4, 5 – (on peut faire une mosaïque de 4)
+Le bloc arrière et le capot :
 
 ![Bloc arrière 1]({{ site.urlimg }}2019-01-22-Restauration DELAHAYE-Post 08 -002.JPG)
 
