@@ -18,7 +18,7 @@ lang: fr
 permalink: 2019-01-21-ChroniqueRestoration800486-7
 ---
 Pour des questions liées à l’histoire de la voiture, les pièces mécaniques avaient été déposées de longue date. Une partie avait déjà été confiée à un rectifieur, d’autres été stockées ailleurs et il fallut faire montre d’une certaine ténacité pour tout rassembler.
-Quoiqu’il en soit, nous récupérions le plus important du lot dans la troisième semaine de janvier 2017.
+Quoiqu’il en soit, nous récupérions le plus important du lot dans la troisième semaine de janvier 2018.
 
 ![Pièces moteur 0]({{ site.urlimg }}2019-01-21-Restauration DELAHAYE-Post 07 -000.jpeg)
 
