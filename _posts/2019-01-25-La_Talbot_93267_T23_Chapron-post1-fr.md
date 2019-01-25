@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "La Talbot T23 93267 – Episode 1"
+title:  "La Talbot T23 93267 – Epoque 1"
 
 subheadline:  
 teaser: 
