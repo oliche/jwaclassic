@@ -6,7 +6,7 @@ title:  "La Talbot T23 93267 – Episode 1"
 subheadline: "Chronique" 
 teaser: "On commence le démontage"
 categories:
-    - historiques
+    - historique
 tags:
     - chapron
     - talbot
