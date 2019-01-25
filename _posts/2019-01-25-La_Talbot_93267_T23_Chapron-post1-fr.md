@@ -33,7 +33,7 @@ C’était au printemps, à tout hasard, je demandais des informations suppléme
 Les photos étaient d’ailleurs assez probantes. L’allure générale de la carrosserie rappelait bien certaines Delahaye du maître Henri Chapron, à part peut-être les enjoliveurs d’ailes qui font penser plutôt à Figoni.
 
 ![Talbot T23 Chapron]({{ site.urlimg }}2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -007.jpg)
-2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -010
+
 
 Mais ce qui était troublant, c’était les plaques, a priori, cela ne ressemblait pas à des faux.
 
