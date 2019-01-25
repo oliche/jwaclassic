@@ -32,12 +32,12 @@ Bref, je suis contacté, via un marchand local, depuis les USA. Une T23, à l’
 C’était au printemps, à tout hasard, je demandais des informations supplémentaires et, je l’avoue, oubliais l’affaire. Fin août, je recevais un courriel avec des photos et des informations complémentaires, on nous annonçait notamment qu’il s’agissait de la seule T23 carrossée par Chapron « modèle unique » et que c’était une troisième main.
 Les photos étaient d’ailleurs assez probantes. L’allure générale de la carrosserie rappelait bien certaines Delahaye du maître Henri Chapron, à part peut-être les enjoliveurs d’ailes qui font penser plutôt à Figoni.
 
-![Talbot T23 Chapron]({{ site.urlimg }}La_Talbot_93267_T23_Chapron _ post1 -007.jpg)
-
+![Talbot T23 Chapron]({{ site.urlimg }}2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -007.jpg)
+2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -010
 
 Mais ce qui était troublant, c’était les plaques, a priori, cela ne ressemblait pas à des faux.
 
-![Talbot T23 Chapron]({{ site.urlimg }}La_Talbot_93267_T23_Chapron _ post1 -008.jpg)
+![Talbot T23 Chapron - plaques]({{ site.urlimg }}2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -008.jpg)
 
 
 Dans ce contexte, il était urgent de faire appel à une spécialiste des recherches historiques : Martine Clément. La première question que je lui posais consistait à savoir si les archives Chapron avait gardé traces de cette revenante : n° Châssis 93267, n° Chapron 6131.
@@ -45,7 +45,7 @@ La réponse ne se fit pas attendre, Martine nous procurait des extraits des arch
 
 IMPORTANT :
 
-![Talbot T23 Chapron]({{ site.urlimg }}La_Talbot_93267_T23_Chapron _ post1 -010.jpg)
+![Livre Welcome Home Baby]({{ site.urlimg }}2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -010.jpg)
 
 
 A toutes fins utiles, je rappelle qu’un livre a été dédié à « La Demoiselle ». Il est vendu au bénéfice de L’Institut du Cerveau et de la Moelle épinière (ICM : https://icm-institute.org/fr/) un des tout premiers centres de recherche au monde de la recherche sur le cerveau. En contre partie d’un don de 50€ (ou plus !) je me ferai un plaisir de vous adresser le livre gracieusement. Pour les détails pratiques, n’hésitez pas à prendre contact : joel.winter@winter-puillet.fr.
