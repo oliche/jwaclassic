@@ -3,8 +3,8 @@ layout: page-fullwidth
 breadcrumb: true
 title:  "La Talbot T23 93267 – Episode 1"
 
-subheadline: "Chronique" 
-teaser: "On commence le démontage"
+subheadline:  
+teaser: 
 categories:
     - historique
 tags:
