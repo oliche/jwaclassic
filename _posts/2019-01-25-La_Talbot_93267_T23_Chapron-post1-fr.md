@@ -11,9 +11,9 @@ tags:
     - chapron
     - talbot
 image:
-    thumb: "2019-01-03-Rest800486-1.jpg"
+    thumb: 
 header:
-    image_fullwidth: "Bannière Talbot T23.jpg"
+    image_fullwidth: "Banner-Talbot-T23.jpg"
 lang: fr
 permalink: 2019-01-25-La_Talbot_93267_T23_Chapron-post1
 ---
