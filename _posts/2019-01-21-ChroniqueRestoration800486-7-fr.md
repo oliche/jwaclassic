@@ -35,4 +35,4 @@ Dans le même temps notre sellier, Sébastien Cherbut, finit de remettre à neuf
 
 Et surtout, nous avons enfin récupéré toutes les pièces de la mécanique moteur. C’est un peu en vrac et significativement incomplet mais nous avons l’essentiel.
 
-![Pièces moteur]({{ site.urlimg }}2019-01-25-Restauration_DELAHAYE-Post 9 -002.jpg)
+![Pièces moteur]({{ site.urlimg }}2019-01-25-Restauration_DELAHAYE-Post 9 -003.jpg)
