@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 6 : Démontage 3"
+title:  "DELAHAYE 800486 - Restauration 6 : Démontage 3"
 
 subheadline: "Chronique" 
 teaser: "Châssis nu !"

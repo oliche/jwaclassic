@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 7 : Mécanique moteur"
+title:  "DELAHAYE 800486 - Restauration 7 : Mécanique moteur"
 
 subheadline: "Chronique" 
 teaser: "On reçoit les pièces moteur"

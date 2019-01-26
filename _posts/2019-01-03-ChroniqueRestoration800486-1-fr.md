@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 Restauration 1 : Présentation"
+title:  "DELAHAYE 800486 - Restauration 1 : Présentation"
 
 subheadline: "Chronique" 
 teaser: "Une des rares DELAHAYE carrossée en Cabriolet deux places par Henri Chapron"

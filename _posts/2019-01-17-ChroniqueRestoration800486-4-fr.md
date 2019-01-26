@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 4 : Démontage 1"
+title:  "DELAHAYE 800486 - Restauration 4 : Démontage 1"
 
 subheadline: "Chronique" 
 teaser: "On commence le démontage"

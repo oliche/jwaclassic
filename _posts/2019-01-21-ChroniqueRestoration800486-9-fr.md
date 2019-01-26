@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 9"
+title:  "DELAHAYE 800486 - Restauration 9"
 
 subheadline: "Chronique" 
 teaser: ""
