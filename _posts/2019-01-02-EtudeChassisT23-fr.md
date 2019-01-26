@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "banner_delage.jpg"
 lang: fr
+date: 2019-01-02 15:00:00
 permalink: 2019-01-02-EtudeChassisT23
 ---
 

@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-22 10:00:00
 permalink: 2019-01-22-ChroniqueRestoration800486-8
 ---
 A la mi-janvier 2018, tous les éléments de caisse sont prêts à être envoyés au sablage

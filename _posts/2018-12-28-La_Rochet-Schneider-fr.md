@@ -14,6 +14,7 @@ image:
 header:
     image_fullwidth: "Banner-Rochet-Schneider-29539.jpg"
 lang: fr
+date: 2018-12-28 14:00:00
 permalink: 2018-12-28-La_Rochet-Schneider
 ---
 

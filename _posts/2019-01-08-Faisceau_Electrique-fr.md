@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "BannerTalbot90010.JPG"
 lang: fr
+date: 2019-01-08 10:00:00
 permalink: 2019-01-08-Faisceau_Electrique
 ---
 

@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Talbot-T23.jpg"
 lang: fr
+date: 2019-01-25 12:00:00
 permalink: 2019-01-25-La_Talbot_93267_T23_Chapron-post1
 ---
 L’histoire qui suit est celle d’une Talbot T23 de 1939 carrossée par Henri Chapron. Cette histoire n’est pas forcément « extra-ordinaire » à proprement parler mais elle est surtout attachante car, d’une part, la voiture nous est parue belle dès les premières photos de ce qui n’était alors qu’une épave et, d’autre part car le travail effectué sur la reconstitution de son histoire nous a donné l’occasion de très émouvantes rencontres et aussi de quelques troublants concours de circonstances… Je vous expliquerai.

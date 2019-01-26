@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-14 10:00:00
 permalink: 2019-01-14-ChroniqueRestoration800486-3
 ---
 
