@@ -13,6 +13,7 @@ image:
 header:
     image_fullwidth: "banner_delahaye.png"
 lang: fr
+date: 2018-12-28 14:00:02
 permalink: 2018-12-29-Le_Modele_Delahaye_135
 ---
 

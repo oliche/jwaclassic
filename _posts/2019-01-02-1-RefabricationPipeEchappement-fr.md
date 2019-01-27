@@ -16,6 +16,7 @@ header:
 author:
     - joël
 lang: fr
+date: 2019-01-02 14:00:00
 permalink: 2019-01-02-1-RefabricationPipeEchappement
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 7 : Mécanique moteur"
+title:  "DELAHAYE 800486 - Restauration 7 : Mécanique moteur"
 
 subheadline: "Chronique" 
 teaser: "On reçoit les pièces moteur"
@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-25 11:00:00
 permalink: 2019-01-21-ChroniqueRestoration800486-7
 ---
 Pour des questions liées à l’histoire de la voiture, les pièces mécaniques avaient été déposées de longue date. Une partie avait déjà été confiée à un rectifieur, d’autres été stockées ailleurs et il fallut faire montre d’une certaine ténacité pour tout rassembler.

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 5 : Démontage 2"
+title:  "DELAHAYE 800486 - Restauration 5 : Démontage 2"
 
 subheadline: "Chronique" 
 teaser: "Bloc arrière"
@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-21 10:00:00
 permalink: 2019-01-21-ChroniqueRestoration800486-5
 ---
 Le démontage du bloc arrière ne fut pas simple, non pas tellement parce qu’il est lourd et imposant mais essentiellement parce qu’il a été façonné et soudé sur le châssis. En conséquence, il nous a fallu tordre et détordre un grand nombre de tôles de fixation pour pouvoir enlever les clous et désolidariser le métal du bois.

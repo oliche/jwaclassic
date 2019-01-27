@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 4 : Démontage 1"
+title:  "DELAHAYE 800486 - Restauration 4 : Démontage 1"
 
 subheadline: "Chronique" 
 teaser: "On commence le démontage"
@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-17 10:00:00
 permalink: 2019-01-17-ChroniqueRestoration800486-4
 ---
 Nous sommes au mois de novembre 2017 et nous commençons le démontage. Chacun sait qu’il s’agit là de l’étape qui demande le plus d’organisation et de documentation.

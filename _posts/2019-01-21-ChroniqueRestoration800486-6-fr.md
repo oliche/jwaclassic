@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 6 : Démontage 3"
+title:  "DELAHAYE 800486 - Restauration 6 : Démontage 3"
 
 subheadline: "Chronique" 
 teaser: "Châssis nu !"
@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-21 10:00:00
 permalink: 2019-01-21-ChroniqueRestoration800486-6
 ---
 Dès le début janvier, nous nous remettions à la tâche et le 4 janvier, le châssis était à nu.

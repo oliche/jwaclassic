@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 9"
+title:  "DELAHAYE 800486 - Restauration 9"
 
 subheadline: "Chronique" 
 teaser: ""
@@ -15,6 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
+date: 2018-01-29 10:00:00
 permalink: 2019-01-25-ChroniqueRestoration800486-9
 ---
 Le Châssis a été mis à nu et envoyé au sablage. Nous sommes à fin janvier 2018.
