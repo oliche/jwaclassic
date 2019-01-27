@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "La Talbot T23 93267 – Etape 1"
+title:  "La Talbot T23 93267 – Chapitre 1"
 
 subheadline:  
 teaser: 
