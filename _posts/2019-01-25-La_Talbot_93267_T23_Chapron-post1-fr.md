@@ -24,6 +24,7 @@ Mais commençons par le commencement :
 
 Nous sommes en 1939.
 Ce 2 mars, en cet hiver finissant, un châssis-moteur sans carrosserie sort des usines Talbot, direction les ateliers d’Henri Chapron. Depuis le milieu des années 30, Talbot est dirigé d’une main de maître par Antony Lago. Celui-ci a su remettre sur les rails d’un succès fulgurant la marque en remportant notamment de grands succès en compétition. A l’autre bout du trajet : les ateliers d’Henri Chapron. La renommée de ce dernier n’est plus à faire. Sellier de formation, Henri Chapron a su s’élever au rang des plus grands carrossiers de France, c’est-à-dire (nous sommes en 1939) du Monde. Il le doit à ce choix, jamais démenti, de lignes épurées qui confèrent une fluidité intemporelle à ses créations. Il est - et encore à ce jour – le représentant phare du grand classicisme français. 
+
 Cela étant, quoi d’extraordinaire me direz-vous dans un camion qui transporte un châssis nu chez un carrossier ? Alors voilà : si les grandes marques comme Delahaye ou Delage font carrosser leur production par des carrossiers spécialistes, ce n’est pas la politique de Talbot qui a ses propres carrossiers. Mais pour ce châssis-là, Talbot fait exception à la règle. D’abord le châssis a été modifié et Talbot a commandé à Chapron un prototype…
 Comme je sais tout ça ? Je vais vous expliquer mais d’abord faisons un saut dans le temps.
 
