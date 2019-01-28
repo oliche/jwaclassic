@@ -46,8 +46,12 @@ La réponse ne se fit pas attendre, Martine nous procurait des extraits des arch
 
 IMPORTANT :
 
-![Livre Welcome Home Baby]({{ site.urlimg }}2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -010.jpg)
+
+Un livre a été dédié à « La Demoiselle ». Il est vendu au bénéfice de L’Institut du Cerveau et de la Moelle épinière (ICM : https://icm-institute.org/fr/) un des tout premiers centres de recherche au monde de la recherche sur le cerveau. En contre partie d’un don de 50€ (ou plus !) je me ferai un plaisir de vous adresser le livre gracieusement. Pour les détails pratiques, n’hésitez pas à prendre contact : joel.winter@winter-puillet.fr.
 
 
-A toutes fins utiles, je rappelle qu’un livre a été dédié à « La Demoiselle ». Il est vendu au bénéfice de L’Institut du Cerveau et de la Moelle épinière (ICM : https://icm-institute.org/fr/) un des tout premiers centres de recherche au monde de la recherche sur le cerveau. En contre partie d’un don de 50€ (ou plus !) je me ferai un plaisir de vous adresser le livre gracieusement. Pour les détails pratiques, n’hésitez pas à prendre contact : joel.winter@winter-puillet.fr.
+
+![Livre Welcome Home Baby]({{ site.urlimg }}2019-01-25-La_Talbot_93267_T23_Chapron _ post1 -010.png)
+
 Ah ! J’oubliais, comme il s’agit d’un don la somme que vous verserez bénéficie des avantages fiscaux liés à ce type d’opération. Fallait le dire !
+
