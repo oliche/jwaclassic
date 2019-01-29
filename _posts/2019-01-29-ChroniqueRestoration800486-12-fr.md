@@ -29,6 +29,6 @@ Pendant ce temps, les minutieux travaux de restauration des bois de structure se
 ![Train arrière]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 12-001.jpg)
 
 
-Mais aussi la colonne de direction et le frein à main, tous deux restaurés sont prêts à partir au chromage pour être montés sur le châssis en priorité.
+Mais aussi la colonne de direction et le frein à main, tous deux restaurés, sont prêts à partir au chromage pour être montés sur le châssis en priorité.
 
 ![direction et frein à main]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 12-002.jpg)
