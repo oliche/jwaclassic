@@ -18,8 +18,6 @@ lang: fr
 date: 2018-01-03 15:00:00
 permalink: 2019-01-03-ChroniqueRestoration800486-1
 ---
-
-
 La Delahaye 135MS 800486 est sortie des ateliers H. Chapron au début de l’année 1948. Quatorze ans plus tard, en 1962, elle était acquise par mon ami Hubert, alors jeune étudiant en architecture, qui me la cédera en 2017 sans presque avoir roulé avec pendant … 55 ans. 
 
 La restauration a vraiment débuté au tout début de l’année 2018. L’objectif est de restituer le véhicule au plus proche de ce qu’il était en 1947 alors qu’il trônait sur le stand Henri Chapron au Salon de Paris.

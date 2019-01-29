@@ -18,7 +18,6 @@ lang: fr
 date: 2018-01-29 10:00:00
 permalink: 2019-01-29-ChroniqueRestoration800486-14
 ---
-
 En juin, les choses vont un peu se précipiter.  
 La restauration du train avant se poursuit comme il se doit. L’état global n’est pas mauvais du tout mais on trouve beaucoup de sable dans les parties cachées, une preuve de plus que la voiture a subi un ardent décapage avant son changement de teinte.
 Le sable :

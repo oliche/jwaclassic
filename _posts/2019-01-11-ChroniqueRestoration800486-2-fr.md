@@ -18,7 +18,6 @@ lang: fr
 date: 2018-01-11 10:00:00
 permalink: 2019-01-11-ChroniqueRestoration800486-2
 ---
-
 Nous sommes en février 2017. Pour la première fois, le véhicule à notre disposition exclusive. L’examen attentif du véhicule dans son état actuel débute donc. David et moi tractons la voiture sur notre pont. Ce n’est pas trop difficile car le moteur a été déposé et confié à un rectifieur.
 Sur les murs de l’atelier nous avons affiché des agrandissements des photos de 1962 (cf : « l’histoire »). Nous nous sommes habitués à ses reposantes couleurs en deux tons de bleus. Mais il faut reconnaître que dans sa très sérieuse livrée noire, elle affiche aussi une certaine allure.
 

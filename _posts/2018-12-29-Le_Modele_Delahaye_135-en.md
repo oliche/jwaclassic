@@ -15,7 +15,6 @@ header:
 lang: en
 permalink: 2018-12-29-Le_Modele_Delahaye_135
 ---
-
 The DELAHAYE brand  figures among the most sought after coachwork during the interwar period.
 
 The car model « 135 » released in the thirties inspired masters coachwork makers of the time.

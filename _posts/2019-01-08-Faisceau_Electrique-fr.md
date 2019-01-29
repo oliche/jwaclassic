@@ -18,8 +18,6 @@ lang: fr
 date: 2019-01-08 10:00:00
 permalink: 2019-01-08-Faisceau_Electrique
 ---
-
-
 Le faisceau de la voiture, une Talbot T150C de 1937, avait naturellement subi au fil des années quelques modifications mais une grande partie était encore d’origine.
 
 Malgré l’attention que l’on porte aux témoignages des éléments d’époque, il est des situations on l’on se trouve tenu d’arbitrer au bénéfice de la sécurité. Et c’était le cas ici.

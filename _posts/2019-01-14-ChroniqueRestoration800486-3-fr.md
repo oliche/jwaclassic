@@ -18,7 +18,6 @@ lang: fr
 date: 2018-01-14 10:00:00
 permalink: 2019-01-14-ChroniqueRestoration800486-3
 ---
-
 Avant de commencer franchement le démontage, nous avons continué à chasser avec une délicatesse de Sioux des traces permettant de confirmer la véritable identité de la voiture. Deux recherches nous motivaient : les traces de peinture bleue en premier lieu et, en second lieu, les « signatures » qu’avaient immanquablement dû laisser le carrossier.
 Nous avons donc commencé à nous intéresser aux parties cachées, celles qu’il était difficile de repeindre et bien entendu les parties métalliques non visibles sur les quelles le numéro de carrosserie (6593) avait pu être frappé.
 En fait il n’a pas fallu chercher bien longtemps, qu’on en juge :

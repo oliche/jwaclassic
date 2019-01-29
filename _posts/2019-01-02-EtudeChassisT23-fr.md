@@ -18,7 +18,6 @@ lang: fr
 date: 2019-01-02 15:00:00
 permalink: 2019-01-02-EtudeChassisT23
 ---
-
 Le châssis de la Talbot 6 cylindres 4 litres T23 Baby portant le n° de série 93.267 et carrossé par Chapron à titre de prototype  présente de nombreuses particularités sur toute la partie avant par comparaison à un châssis de série identifié comme appartenant à la première génération des T23 Baby (ou « Baby 4L »). 
 Pour être précis, on découvre successivement (Photo 1) : des renforts (5) en forme de « U »
 inversé, soudés sur la partie supérieure de chaque longeron à partir de l’auvent de telle façon que l’âme du châssis passe de 11 à 15 cm. Une traverse tubulaire supplémentaire (7) est positionnée à l’avant de ces renforts doublant celle déjà existante.
