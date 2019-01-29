@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 breadcrumb: true
-title:  "DELAHAYE 800486 – Restauration 15 : Retour des éléments"
+title:  "DELAHAYE 800486 – Restauration 16 : Retour des éléments"
 
 subheadline: "Chronique" 
 teaser: "Un décapage très doux "
