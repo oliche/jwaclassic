@@ -29,23 +29,23 @@ La Delahaye chez Mathieu :
 ![Chez Mathieu]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 18 -001.jpg)
 
 
-Les tôles, bien qu’en relatif bon état, présentent tout de même quelques perforations qui nécessitent des greffons ; on a ci-dessous l’exemple du passage de roue arrière droit :
-La perforation :
+Les tôles, bien qu’en relatif bon état, présentent tout de même quelques perforations qui nécessitent des greffons ; on a ci-dessous l’exemple du passage de roue arrière droit :  
+La perforation :  
 
 ![La perforation]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 18 -002.jpg)
 
 
-La découpe :
+La découpe :  
 
 ![La découpe]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 18 -003.jpg)
 
 
-Le greffon :
+Le greffon :  
 
 ![Le greffon]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 18 -004.jpg)
 
 
-Le passage de roue réparé :
+Le passage de roue réparé :  
 
 ![Passage de roue]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 18 -005.jpg)
 
