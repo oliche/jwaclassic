@@ -15,7 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
-date: 2018-01-29 10:00:00
+date: 2018-01-29 11:00:00
 permalink: 2019-01-29-ChroniqueRestoration800486-15
 ---
 En juillet les choses s’accélèrent. Si nous voulons maintenir les objectifs de présenter la voiture à Epoqu’auto, sur le stand de Mathieu, il faut que les éléments reviennent du dégommage, que la structure bois soit prête et que le châssis soit sur ses roues.

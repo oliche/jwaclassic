@@ -15,7 +15,7 @@ image:
 header:
     image_fullwidth: "Banner-Delahaye-800486.png"
 lang: fr
-date: 2018-01-29 10:00:00
+date: 2018-01-29 11:30:00
 permalink: 2019-01-29-ChroniqueRestoration800486-17
 ---
 Le mois de septembre a été particulièrement calme pour le chantier de restauration. La cause en a été la foule d’autres tâches qui nous attendaient par ailleurs.
