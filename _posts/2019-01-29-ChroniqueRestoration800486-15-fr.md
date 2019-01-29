@@ -27,11 +27,11 @@ On s’active donc sur le remontage du train avant.
 
 On remonte les éléments, comme la colonne de direction, qui sont revenus du chromage
 
-![Colonne direction]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 15 -001.JPG)
+![Colonne direction]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 15 -001.jpg)
 
 
 Et surtout, on s’affaire pour envoyer à Patrice Coutant toutes les pièces qui lui permettront de remonter le moteur.
 
-![Pièces moteur 1]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 15 -002.jpg)
+![Pièces moteur 1]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 15 -002.JPG)
 
 ![Pièces moteur 2]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 15 -003.JPG)
