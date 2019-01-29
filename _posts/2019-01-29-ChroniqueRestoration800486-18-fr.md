@@ -30,6 +30,7 @@ La Delahaye chez Mathieu :
 
 
 Les tôles, bien qu’en relatif bon état, présentent tout de même quelques perforations qui nécessitent des greffons ; on a ci-dessous l’exemple du passage de roue arrière droit :  
+
 La perforation :  
 
 ![La perforation]({{ site.urlimg }}2019-01-29-Restauration_DELAHAYE-Post 18 -002.jpg)
