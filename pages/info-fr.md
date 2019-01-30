@@ -8,23 +8,18 @@ header:
     image_fullwidth: "banner_delahaye.png"
 ---
 
+**JWA Classic** 
 
- JWA Classic 
+SARL au Capital de 300 000 €  
+Adresse:  
+217, Route de Chauffailles  
+42670 Belmont-de-la-Loire FRANCE  
+N° Siret : 448 044 479 00013  
+RCS ROANNE Code APE : 45.11Z  
 
-SARL au Capital de 300 000 €
+**TVA : FR 84 448 044 479**
 
-Adresse:
-
-217, Route de Chauffailles
-
-42670 Belmont-de-la-Loire FRANCE
-
-N° Siret : 448 044 479 00013 - 
-RCS ROANNE Code APE : 45.11Z
-
-TVA : FR 84 448 044 479
-
- Tél. : +33 (0)7 86 71 64 14 - Email: joel.winter@winter-puillet.fr
+Tél. : +33 (0)7 86 71 64 14 - Email: joel.winter@winter-puillet.fr
 
 <!-- Directeur de la publication: 
 Hébergeur : (nom, dénomination ou raison sociale, adresse et numéro de téléphone) 
