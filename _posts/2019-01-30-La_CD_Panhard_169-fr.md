@@ -21,10 +21,11 @@ permalink: 2019-01-30-La_CD_Panhard_169
 # Le Modèle "CD"
 
 ![CD Panhard Brochure 1]({{ site.urlimg }}2019-01-30-Le_CD_Panhard.jpg)
-La CD Panhard est effectivement une « belle voiture ». Belle et efficace : sa finesse de lignes se traduit en effet non seulement par une esthétique très appréciée encore de nos jours mais aussi par un CX qui lui permet des performances remarquables.
+
+La CD Panhard est effectivement une « belle voiture ». Belle et efficace : sa finesse de lignes se traduit en effet non seulement par une esthétique très appréciée encore de nos jours mais aussi par un CX qui lui permet des performances tout aussi actuelles.
 
 
-La CD Panhard est une voiture, belle simple de conception et - ce qui la rend encore plus désirable – affichant des performances tout à fait respectables dans la circulation d’aujourd’hui. Il s’agit enfin un véhicule rare : moins de 200 exemplaires au total ont été produits. C’est un critère non négligeable pour qui souhaite participer à des compétitions prestigieuses de véhicules historiques.  
+Mais c’est aussi une voiture simple de conception et - ce qui la rend encore plus désirable – affichant des performances tout à fait respectables dans la circulation d’aujourd’hui. Il s’agit enfin un véhicule rare : moins de 200 exemplaires au total ont été produits. C’est un critère non négligeable pour qui souhaite participer à des compétitions prestigieuses de véhicules historiques.  
 
 
 # La Panhard CD N°169
