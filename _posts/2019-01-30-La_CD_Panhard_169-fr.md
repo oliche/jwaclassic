@@ -1,21 +1,20 @@
+---
 layout: page-fullwidth
 breadcrumb: true
-title:  "CD Panhard – 1964 »
+title:  "CD Panhard – 1964 "
 subheadline:  "Véhicule à Vendre - Restauration à terminer"
-
 teaser: "N° de Châssis 169"
-
 categories:
     - voitures
     - autres
 tags:
     - panhard
 image:
-   thumb: ""
+   thumb: " "
 header:
     image_fullwidth: "Banner_panhard.jpg"
 lang: fr
-date: 2019-01-30 14:00:00
+date: 2019-01-28 14:00:00
 permalink: 2019-01-30-La_CD_Panhard_169
 
 
