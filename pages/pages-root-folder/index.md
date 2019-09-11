@@ -8,36 +8,11 @@ layout: frontpage
 header:
   image_fullwidth: Banner-Delahaye-818003.jpg
 widget1:
-  title: "Véhicules"
-  url: '/voitures/'
+  title: "Delahaye 235 Breitling"
+  url: '/delahaye_235_breitling/'
   image: home_voitures.jpg
-  text: 'Le coin réservé des Voitures de Collection qui roulent!'
-widget2:
-  title: "Historiques"
-  image: home_historique.jpg
-  url: '/historique/'
-  text: 'Un retour sur des Histoires de Belles Anciennes qui sortent en général de l ordinaire'
-widget3:
-  title: "Technique"
-  url: '/technique/'
-  image: home_mecanique.jpg
-  text: 'Le suivi des entretiens et celui des restaurations'
-widget4:
-  title: "Documentation"
-  url: '/documentation/'
-  image: home_presse.jpg
-  text: "Dans la presse et les écrits d'époque, il arrive de faire des découvertes instructives"
-widget5:
-  title: "Blog & Porfolio"
-  image: home_misc.jpg
-  url: '/misc/'
-  text: 'Actualités et diverses informations au fil de l eau'
-widget6:
-  title: "Archives"
-  image: home_archive.png
-  url: '/blog/archive/'
-  text: 'Tous les articles'
+  text: 'Delahaye 235 Breitling'
 permalink: /index.html
 homepage: true
-lang: fr
+lang: en
 ---

@@ -2,48 +2,10 @@
   url: "/"
   side: left
 
-- title: "Véhicules"
-  url: "/voitures/"
-  side: left
-#  dropdown:
-#  - title: "delage"
-#    url: "/delage/"
-#  - title: "delahaye"
-#    url: "/delahaye/"
-#  - title: "talbot"
-#    url: "/talbot/"
-#  - title: "autres"
-#    url: "/voitures_misc/"
-
-- title: "Histoires de véhicules"
-  url: "/historique/"
+- title: "235MS"
+  url: "/delahaye_235_breitling/"
   side: left
 
-- title: "Technique"
-  url: "/technique/"
-  side: left
-
-- title: "Documentation"
-  url: "/documentation/"
-  side: left
-
-- title: "Blog et portfolio"
-  url: "/misc/"
-  side: left
-
-- title: Archive
-  url: "/blog/archive/"
-  side: right
-
-- title: 'Recherche'
+- title: 'Search'
   url: "/search/"
   side: right
-
-- title: 'EN'
-  url: "/en/"
-  side: right
-
-- title: 'FR'
-  url: ""
-  side: right
-

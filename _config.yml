@@ -86,8 +86,8 @@ exclude:
 language: 'fr'
 
 # Language support provided by polyglot plugin
-languages: ["fr", "en"]
-default_lang: "fr"
+languages: ["en"]
+default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: false
 
