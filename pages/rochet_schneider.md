@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Delahaye 235"
+title: "Rochet Schneider"
 subheadline: ""
 header:
-    image_fullwidth: "banner_ms235.jpg"
-permalink: "/delahaye_235_breitling/"
+    image_fullwidth: "banner_rochet.jpg"
+permalink: "/rochet_schneider/"
 lang: eng
 ---
 

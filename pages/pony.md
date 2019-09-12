@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Delahaye 235"
+title: "Pony"
 subheadline: ""
 header:
-    image_fullwidth: "banner_ms235.jpg"
-permalink: "/delahaye_235_breitling/"
+    image_fullwidth: "banner_pony.jpg"
+permalink: "/pony/"
 lang: eng
 ---
 
