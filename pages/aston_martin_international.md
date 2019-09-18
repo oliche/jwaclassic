@@ -4,7 +4,7 @@ show_meta: false
 title: "Aston Martin International 1931"
 subheadline: ""
 header:
-    image_fullwidth: "banner_talbot.png"
+    image_fullwidth: "banner_talbot_rouge.png"
 permalink: "/aston_martin_international/"
 lang: eng
 ---

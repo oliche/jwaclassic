@@ -6,26 +6,26 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: banner_ms235.jpg
+  image_fullwidth: banner_talbot_rouge.jpg
 widget1:
   title: "Aston Martin International"
   url: '/aston_martin_international/'
-  image: home_voitures.jpg
+  image: thumb_aston.jpg
   text: 'Aston Martin International'
 widget2:
   title: "Delahaye 235 Breitling"
   url: '/delahaye_235_breitling/'
-  image: home_voitures.jpg
+  image: thumb_ms235.jpg
   text: 'Delahaye 235 Breitling'
 widget3:
   title: "Pony"
   url: '/pony/'
-  image: home_voitures.jpg
+  image: thumb_pony.jpg
   text: 'Pony'
 widget4:
   title: "Rochet Schneider"
   url: '/rochet_schneider/'
-  image: home_voitures.jpg
+  image: thumb_rochet.jpg
   text: 'Rochet Schneider'
 permalink: /index.html
 homepage: true
