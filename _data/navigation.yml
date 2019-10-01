@@ -4,20 +4,16 @@
 
 - title: "Aston Martin"
   url: "/aston_martin_international/"
-  side: left
+  side: right
 
 - title: "Delahaye 235"
   url: "/delahaye_235_breitling/"
-  side: left
+  side: right
 
 - title: "Pony"
   url: "/pony/"
-  side: left
+  side: right
 
 - title: "Rochet Schneider"
   url: "/rochet_schneider/"
-  side: left
-
-- title: 'Search'
-  url: "/search/"
   side: right
