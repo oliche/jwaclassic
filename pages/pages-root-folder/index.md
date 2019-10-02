@@ -13,16 +13,26 @@ widget1:
   image: thumb_aston.jpg
   text: 'Aston Martin International'
 widget2:
+  title: "Delahaye 135 Chapron"
+  url: '/delahaye_15_chapron/'
+  image: thumb_135.jpg
+  text: 'Delahaye 135 Chapron'
+widget3:
   title: "Delahaye 235 Breitling"
   url: '/delahaye_235_breitling/'
   image: thumb_ms235.jpg
   text: 'Delahaye 235 Breitling'
-widget3:
+widget4:
+  title: "Alfa-Romeo Giuletta 1967"
+  url: '/alfa_romeo_giuletta/'
+  image: thumb_alfa.jpg
+  text: 'Alfa-Romeo Giuletta 1967'
+widget5:
   title: "Pony"
   url: '/pony/'
   image: thumb_pony.jpg
   text: 'Pony'
-widget4:
+widget6:
   title: "Rochet Schneider"
   url: '/rochet_schneider/'
   image: thumb_rochet.jpg

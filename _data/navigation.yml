@@ -6,8 +6,16 @@
   url: "/aston_martin_international/"
   side: right
 
+- title: "Delahaye 135"
+  url: "/delahaye_135_chapron/"
+  side: right
+
 - title: "Delahaye 235"
   url: "/delahaye_235_breitling/"
+  side: right
+
+- title: "Giuletta"
+  url: "/alfa_romeo_giuletta/"
   side: right
 
 - title: "Pony"
