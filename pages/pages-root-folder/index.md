@@ -14,7 +14,7 @@ widget1:
   text: 'Aston Martin International'
 widget2:
   title: "Delahaye 135 Chapron"
-  url: '/delahaye_15_chapron/'
+  url: '/delahaye_135_chapron/'
   image: thumb_135.jpg
   text: 'Delahaye 135 Chapron'
 widget3:
