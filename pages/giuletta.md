@@ -1,6 +1,7 @@
 ---
 layout: page
 show_meta: false
+sidebar: left
 title: "Alfa Romeo Giuletta 1962"
 subheadline: ""
 header:
