@@ -4,7 +4,7 @@ show_meta: false
 title: "Alfa Romeo Giuletta 1962"
 subheadline: ""
 header:
-    image_fullwidth: "banner_aston.png"
+    image_fullwidth: "banner_giuletta.png"
 permalink: "/alfa_romeo_giuletta/"
 lang: eng
 ---
