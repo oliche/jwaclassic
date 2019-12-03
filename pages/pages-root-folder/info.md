@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "About"
-subheadline: "This is an incredible subheadline"
-teaser: "This is a nice teaser"
+title: "JWA Classic"
+subheadline: ""
+teaser: "Get in touch !"
 permalink: "/info/"
 header:
     image_fullwidth: "banner_talbot.png"
 ---
-
 
 
 

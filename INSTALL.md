@@ -45,3 +45,6 @@ Eventuellement créer un script nommé jwaclassic dans home contenant les lignes
 
 Taper dans un navigateur web:
     http://localhost:4000
+
+
+## Deploiement

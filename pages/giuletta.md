@@ -1,7 +1,6 @@
 ---
 layout: page
 show_meta: false
-sidebar: left
 title: "Alfa Romeo Giuletta 1962"
 subheadline: ""
 header:
@@ -28,10 +27,3 @@ The Giulietta SS is powered by the 1290cc Alfa Romeo Twin Cam engine "Bialbero" 
 ## History
 This 1962 Giulietta Sprint Speciale is a "matching number" with the initial engine. She also came with a replacement engine issued from the Giulietta Ti with a slightly lower compression ratio - which makes her perfect for enjoying casual touring and/or  classic races participation.
 The restoration has been minimal and she retains most of her original interior - including the rare 4 fitted leather luggage and their strap behind the seats - a dedicated feature seldom found nowadays and originally presented in the 1957 Bertone accessory and special finitions catalog .
-
-
-<ul>
-    {% for post in site.categories.historique %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>

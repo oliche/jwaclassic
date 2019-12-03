@@ -4,7 +4,7 @@ show_meta: false
 title: "Delahaye 135 Chapron 1945"
 subheadline: ""
 header:
-    image_fullwidth: "banner_aston.png"
+    image_fullwidth: "banner_delahaye_135.png"
 permalink: "/delahaye_135_chapron/"
 lang: eng
 ---
