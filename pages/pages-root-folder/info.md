@@ -17,6 +17,8 @@ More pictures and resources on these Blogs:
 * [Delahaye 135 Chapron](https://delahaye135m801025.blogspot.com/)
 * [Talbot-Lago T150C 1937](https://talbotlagott150c.blogspot.com/)
 * [Delahaye 135MS Cabriolet "Vedette"](https://delahaye135msvedette.blogspot.com/)
+* [Rochet-Schneider 26-Six N°29539](https://rochetschneider26six.blogspot.com/)
+
 
 ## Instagram
 Djo is on Instagram:
