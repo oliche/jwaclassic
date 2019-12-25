@@ -23,10 +23,10 @@ widget3:
   image: thumb_ms235.jpg
   text: 'Delahaye 235 Breitling'
 widget4:
-  title: "Alfa-Romeo Giuletta 1967"
-  url: '/alfa_romeo_giuletta/'
+  title: "Alfa Romeo Giulietta SS"
+  url: '/alfa_romeo_giulietta/'
   image: thumb_alfa.jpg
-  text: 'Alfa-Romeo Giuletta 1967'
+  text: 'Giulietta Sprint Speciale 1962'
 widget5:
   title: "Pony"
   url: '/pony/'
