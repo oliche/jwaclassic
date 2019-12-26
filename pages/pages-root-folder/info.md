@@ -31,8 +31,11 @@ Djo is on Instagram:
 
 
 ## Contact Us
-Leave your email and a message below and we will contact you:
-<form method="POST" action="https://formspree.io/joel.winter@winte-puillet.fr">
+You can reach us at: [contact@jwaclassic.com](mailto:contact@jwaclassic.com)
+
+Or leave your email and a message below and we will contact you:
+
+<form method="POST" action="https://formspree.io/contact@jwaclassic.com">
   <input type="email" name="email" placeholder="Your email">
   <textarea name="message" placeholder="Test Message"></textarea>
   <button type="submit">Send</button>
