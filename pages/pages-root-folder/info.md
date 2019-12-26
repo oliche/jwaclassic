@@ -18,6 +18,11 @@ More pictures and resources on these Blogs:
 * [Talbot-Lago T150C 1937](https://talbotlagott150c.blogspot.com/)
 * [Delahaye 135MS Cabriolet "Vedette"](https://delahaye135msvedette.blogspot.com/)
 * [Rochet-Schneider 26-Six N°29539](https://rochetschneider26six.blogspot.com/)
+* [Talbot-Lago T23 Chapron 1939 "Baby"](https://talbotlagot23chapron.blogspot.com/)
+
+
+As contributors:
+* [Delahaye 235 - Chassis number registry](https://lesdelahaye235.blogspot.com)
 
 
 ## Instagram
