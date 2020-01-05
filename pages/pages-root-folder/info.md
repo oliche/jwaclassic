@@ -19,6 +19,7 @@ More pictures and resources on these Blogs:
 * [Delahaye 135MS Cabriolet "Vedette"](https://delahaye135msvedette.blogspot.com/)
 * [Rochet-Schneider 26-Six N°29539](https://rochetschneider26six.blogspot.com/)
 * [Talbot-Lago T23 Chapron 1939 "Baby"](https://talbotlagot23chapron.blogspot.com/)
+* [Aston-Martin International 1931 - KO 84](https://astonmartink084.blogspot.com/)
 * [Charron-Girardot-Voigt -1904 20HP 5L](https://cgv-5l-1904.blogspot.com/)
 
 

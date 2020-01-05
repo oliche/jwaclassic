@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Delahaye 235"
+title: "Delahaye 235 - Breitling"
 subheadline: ""
 header:
     image_fullwidth: "banner_ms235.jpg"

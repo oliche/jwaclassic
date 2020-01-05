@@ -10,7 +10,6 @@ lang: eng
 ---
 
 More pictures and resources on this [Blog](https://delahaye135m801025.blogspot.com/).           
-Current auction listed in [Bring a Trailer](https://bringatrailer.com/listing/1948-delahaye-135-m-cabriolet-by-chapron/).
 
 ![Pic](/images/page_delahaye135/delahaye135_1.jpg)
 

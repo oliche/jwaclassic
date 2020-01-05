@@ -9,6 +9,8 @@ permalink: "/aston_martin_international/"
 lang: eng
 ---
 
+More pictures and resources on this [Blog](https://astonmartink084.blogspot.com/).      
+
 ![Pic](/images/page_aston/aston_1.jpg)
 
 ## Overview
