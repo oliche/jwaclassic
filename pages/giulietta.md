@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Alfa Romeo Giulietta 1962"
 subheadline: ""

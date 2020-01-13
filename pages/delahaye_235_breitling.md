@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Delahaye 235 - Breitling"
 subheadline: ""
@@ -9,11 +9,11 @@ permalink: "/delahaye_235_breitling/"
 lang: eng
 ---
 
-More information on Delahaye 235 on this [Blog](https://lesdelahaye235.blogspot.com/).      
-
-![Pic](/images/page_delahaye235/delahaye235_0.jpg)
+### More information on Delahaye 235 on this [*Blog*](https://lesdelahaye235.blogspot.com/).
 
 ## Overview
+
+![Pic](/images/page_delahaye235/delahaye235_0.jpg)
 
 After stopping its activity during world war II, Delahaye resumed its production in a battered but recovering French economy. With punitive tax measures aimed at luxurious non essential goods and increasing competition, Delahaye saw its premium sports cars construction drop to unsustainable levels. The Type 135M was in essence the same as the pre-war model - with the classic 3.6 liter tri carburetor setup boosted up to 160 horsepower in its liveliest version. The partnership with the great Coachbuilders also resumed, lead by Chapron, Figoni, Saoucthik, Letourneur & marchand and other Iconic artworkers.
 

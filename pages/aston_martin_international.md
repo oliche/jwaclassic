@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Aston Martin International 1931"
 subheadline: ""
@@ -9,11 +9,10 @@ permalink: "/aston_martin_international/"
 lang: eng
 ---
 
-More pictures and resources on this [Blog](https://astonmartink084.blogspot.com/).      
-
-![Pic](/images/page_aston/aston_1.jpg)
+### More pictures and resources on this [*Blog*](https://astonmartink084.blogspot.com/).
 
 ## Overview
+![Pic](/images/page_aston/aston_1.jpg)
 In 1926, Augustus Bertelli, Bill Renwick and a group of investors took over the then financially troubled car maker and renamed it Aston Martin Motors. From 1926 to 1937, Bertelli lead the brand as technical director, designer and pilot, producing and racing outstanding sports cars. Using the previous technological marvel developped with Renwick, Aston Martin introduced an overhead cam four cylinder derived from the "BuzzBox" to develop the 1.5 liter First Series, among which the "T-Type", "Standards Sports Model" and the "International".
 
 ![Pic](/images/page_aston/aston_2.jpg)
@@ -38,3 +37,5 @@ A total of 129 International first series have been built up to 1932, most of th
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+### More pictures and resources on this [*Blog*](https://astonmartink084.blogspot.com/).
