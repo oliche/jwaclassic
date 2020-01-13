@@ -1,27 +1,30 @@
 - title: Home
   url: "/"
   side: left
+- title: Blog / Contact
+  url: "/info/"
+  side: left
+#  dropdown:
+#  - title: "Grid & Colors"
+#    url: "/design/grid/"
 
-- title: "Aston Martin"
-  url: "/aston_martin_international/"
-  side: right
+#- title: "For Sale"
+#  side: right
+#  dropdown:
 
-- title: "Delahaye 135"
-  url: "/delahaye_135_chapron/"
-  side: right
 
-- title: "Delahaye 235"
-  url: "/delahaye_235_breitling/"
+- title: "Collection"
   side: right
-
-- title: "Giulietta"
-  url: "/alfa_romeo_giulietta/"
-  side: right
-
-- title: "Pony"
-  url: "/pony/"
-  side: right
-
-- title: "Rochet Schneider"
-  url: "/rochet_schneider/"
-  side: right
+  dropdown:
+  - title: "Delahaye 135"
+    url: "/delahaye_135_chapron/"
+  - title: "Aston Martin"
+    url: "/aston_martin_international/"
+  - title: "Delahaye 235"
+    url: "/delahaye_235_breitling/"
+  - title: "Giulietta"
+    url: "/alfa_romeo_giulietta/"
+  - title: "Pony"
+    url: "/pony/"
+  - title: "Rochet Schneider"
+    url: "/rochet_schneider/"

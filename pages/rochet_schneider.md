@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Rochet Schneider 26-Six"
 subheadline: ""
@@ -9,11 +9,12 @@ permalink: "/rochet_schneider/"
 lang: eng
 ---
 
-More pictures and resources on this [Blog](https://rochetschneider26six.blogspot.com/).   
+### More pictures and resources on this [*Blog*](https://rochetschneider26six.blogspot.com/).
+
+## Overview
 
 ![Pic](/images/page_rochet_schneider/rochet_0.jpg)
 
-## Overview
 This N°29359 was coach built in Lyon by Billeter et Cartier as a limousine, with separation, on a lengthened chassis.
 The ﬁrst owner was an English doctor, named Stanley Rendall from Aix les Bains, where he held the villa still bears his name today. The next owner was Maître Mantoux, a solicitor from Alger, later it belonged to Serge Pozzoli and is now in a private collection.
 
@@ -51,3 +52,5 @@ But the industrial crisis put an end to the high hopes of the marquee and to the
 ![Pic](/images/page_rochet_schneider/rochet_5.jpg)
 
 ![Pic](/images/page_rochet_schneider/rochet_3.jpg)
+
+### More pictures and resources on this [*Blog*](https://rochetschneider26six.blogspot.com/).

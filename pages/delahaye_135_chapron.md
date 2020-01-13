@@ -1,21 +1,21 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
-title: "Delahaye 135 Chapron 1945"
+title: "Delahaye 135 Chapron 1948"
 subheadline: ""
 header:
-    image_fullwidth: "banner_delahaye_135.png"
+     image_fullwidth: "banner_delahaye_135.png"
 permalink: "/delahaye_135_chapron/"
 lang: eng
 ---
 
-More pictures and resources on this [Blog](https://delahaye135m801025.blogspot.com/).           
-Current auction listed in [Bring a Trailer](https://bringatrailer.com/listing/1948-delahaye-135-m-cabriolet-by-chapron/).
-
-![Pic](/images/page_delahaye135/delahaye135_1.jpg)
+### More pictures and resources on this [*Blog*](https://delahaye135m801025.blogspot.com/).
 
 ## Overview
+
 Delahaye was probably one of the most revered luxury brand of the late "entre deux guerre" (in between wars). Founded in 1894, the "Societe des Automobiles Delahaye" took a pivotal direction in 1932 - influenced by Madame Leon Desmarais - majority shareholder and widow of early investor Leon Desmarais. Delahaye would focus on creating high quality automotive chassis and reopen the racing department. In 1935, quickly becoming competitive and winning events, Delahaye introduced the Type 135, also known as the "Coupe des Alpes". It became perhaps the most iconic Delahaye model, synonym of high performance with exceptional style.
+
+![Pic](/images/page_delahaye135/delahaye135_1.jpg)
 
 As an automotive chassis provider - the DELAHAYE Type 135 buyer had to select its own Coachbuilder. The list of independent artworkers is prestigious: Letourneur & Marchand, Chapron, Figoni, Saoutchik, Franay and others. Gorgeous lacquered paint, shiny chromes and Art Deco curvaceous lines largely contributed to the Type 135 legend. Even though this customization was a questionable business decision in the French afterwar automotive market - which might have contributed to DELAHAYE demise - the Type 135 of today leaves us with a witness of the Avant Garde grandeur of the 1930's - when a luxury automobile was also a unique piece of art.
 
@@ -51,3 +51,5 @@ There is no more information until 2009 when JWA Classics acquires this car - "d
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
+
+### More pictures and resources on this [*Blog*](https://delahaye135m801025.blogspot.com/).

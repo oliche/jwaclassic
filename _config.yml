@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'JWA Classics'
+title: 'JWA Classic'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Delage, Delahaye, Talbot'
@@ -22,7 +22,7 @@ credits: '<p>Created  with <a href="http://jekyllrb.com/" target="_blank">Jekyll
 # Main author of the website
 # See > authors.yml
 author: joe
-
+contact: contact@jwaclassic.com
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'http://www.jwaclassic.com'
@@ -239,8 +239,7 @@ og_type:                            'website'
 #
 # used in _includes/footer_scripts
 
-#google_analytics_tracking_id: UA-60112281-1
-
+google_analytics_tracking_id: UA-154987812-1
 
 
 #   _                 _     _
