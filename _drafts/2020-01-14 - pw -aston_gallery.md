@@ -8,7 +8,22 @@ header:
 permalink: "/aston_martin_international/"
 lang: eng
 
+gallery: # no need to prefix with "/images/"
+    - image_url: page_aston/aston_1.jpg
+      caption: Great images by Unsplash.com
+    - image_url: page_aston/aston_2.jpg
+      caption: Great images by Unsplash.com
+    - image_url: page_aston/aston_3.jpg
+      caption: Great images by Unsplash.com
+    - image_url: page_aston/aston_4.jpg
+      caption: Great images by Unsplash.com
+    - image_url: page_aston/aston_5.jpg
+      caption: Great images by Unsplash.com
+    - image_url: page_aston/aston_6.jpg
+      caption: Great images by Unsplash.com
 ---
+
+{% include gallery %}
 
 ### More pictures and resources on this [*Blog*](https://astonmartink084.blogspot.com/).
 
