@@ -1,7 +1,7 @@
 - title: Home
   url: "/"
   side: left
-- title: Blog / Contact
+- title: Blogs / Contact
   url: "/info/"
   side: left
 #  dropdown:
@@ -13,13 +13,17 @@
 #  dropdown:
 
 
-- title: "Collection"
+- title: "For sale"
   side: right
   dropdown:
   - title: "Delahaye 135"
     url: "/delahaye_135_chapron/"
   - title: "Aston Martin"
     url: "/aston_martin_international/"
+    
+- title: "Restoration"
+  side: right
+  dropdown:
   - title: "Delahaye 235"
     url: "/delahaye_235_breitling/"
   - title: "Giulietta"
