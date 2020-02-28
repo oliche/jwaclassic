@@ -17,8 +17,8 @@ header:
 
 
 ## Restoration Projects
-Like most of passionate - we consider each project as an adventure.  
-From the technical aspects to each car specific history, Joel maintains blogs regularly and update the progress for specific models.
+Like most of passionates - we consider each project as an adventure.  
+From the technical aspects to each car specific history, Joel maintains blogs regularly and updates the progress for specific models.
 
 <div class="row">
   <div class="large-3 columns"><br>
