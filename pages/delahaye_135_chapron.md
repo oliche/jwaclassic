@@ -4,8 +4,8 @@ show_meta: false
 title: "Delahaye 135 Chapron 1948"
 subheadline: ""
 header:
-     image_fullwidth: "banner_delahaye_135.png"
-permalink: "/delahaye_135_chapron/"
+     image_fullwidth: "banner-delahaye-type-135-chapron.png"
+permalink: "/delahaye-135-chapron/"
 lang: eng
 ---
 
@@ -15,11 +15,11 @@ lang: eng
 
 Delahaye was probably one of the most revered luxury brand of the late "entre deux guerre" (in between wars). Founded in 1894, the "Societe des Automobiles Delahaye" took a pivotal direction in 1932 - influenced by Madame Leon Desmarais - majority shareholder and widow of early investor Leon Desmarais. Delahaye would focus on creating high quality automotive chassis and reopen the racing department. In 1935, quickly becoming competitive and winning events, Delahaye introduced the Type 135, also known as the "Coupe des Alpes". It became perhaps the most iconic Delahaye model, synonym of high performance with exceptional style.
 
-![Pic](/images/page_delahaye135/delahaye135_1.jpg)
+![Pic](/images/page_delahaye135/delahaye-type-135-chapron-1.jpg)
 
 As an automotive chassis provider - the DELAHAYE Type 135 buyer had to select its own Coachbuilder. The list of independent artworkers is prestigious: Letourneur & Marchand, Chapron, Figoni, Saoutchik, Franay and others. Gorgeous lacquered paint, shiny chromes and Art Deco curvaceous lines largely contributed to the Type 135 legend. Even though this customization was a questionable business decision in the French afterwar automotive market - which might have contributed to DELAHAYE demise - the Type 135 of today leaves us with a witness of the Avant Garde grandeur of the 1930's - when a luxury automobile was also a unique piece of art.
 
-![Pic](/images/page_delahaye135/delahaye135_2.jpg)
+![Pic](/images/page_delahaye135/delahaye-type-135-chapron-2.jpg)
 
 ## Features
 For this Type 135M, the original customer, Mr Leblanc, selected Chapron as his custom body maker. Known for a style not as flamboyant as Figoni or Saoutchik, Chapron body work is recognized for his aerodynamic lines balanced with a delicate sense of restraint - typical of French clacissism. Always finding the right balance between banality and exuberance, Chapron left us with magnificent cars who defy the trends and ages to simply be beautiful.
@@ -27,7 +27,7 @@ For this Type 135M, the original customer, Mr Leblanc, selected Chapron as his c
 Delahaye introduced the first Type 135 in 1935 - a 3.2 liter with 95 horsepower in twin carburetor configuration or 110 horsepower in tri carburetor. Then, to cater to the interest in higher performance, the type 135M was launched in 1936 with larger displacement - 3.6 liter - with 90, 105 or 115 horsepower in single, twin or tri carburetors.
 In 1939, a sportier version, the 135MS was released with a similar 3.6 liter tri carburetor setup delivering from 120 to 145 horsepower. Production was halted during the war and resumed in 1945 until 1952.  This Type 135MS is powered by the familiar Type 135 3.6 liters straight six engine fitted with a '84R'  high lift camshaft and delivers 145 horsepower. The fuel is fed through three down draft Solex carburetors ( 40PAI) and the transmission is a 4-speed MK38 Cotal gearbox.
 
-![Pic](/images/page_delahaye135/delahaye135_4.jpg)
+![Pic](/images/page_delahaye135/delahaye-type-135-chapron-4.jpg)
 
 ## History
 ### Facts
@@ -44,7 +44,7 @@ We don't know how long Monsieur Leblanc retained his Type 135M. The next owner r
 In 1966, Monsieur Michel Picard will separate himself from the Type 135M and sell it to a mechanic for salvaging. The mechanic – perhaps sensitive to the beauty of this “Grande Routiere” – sold it to an amateur for the modest sum of 150 Francs instead of bringing it the scrapeyard. At this time, the annual median worker salary was 10,000 Francs. Modern times and societal progress can be ruthless.
 There is no more information until 2009 when JWA Classics acquires this car - "dans son jus" – non running wreck - with the goal to restore it to its prime elegance.
 
-![Pic](/images/page_delahaye135/delahaye135_3.jpg)
+![Pic](/images/page_delahaye135/delahaye-type-135-chapron-3.jpg)
 
 <ul>
     {% for post in site.categories.historique %}

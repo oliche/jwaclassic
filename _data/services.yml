@@ -1,9 +1,16 @@
-#- menu_name: "Services"#
 
-#- name: "Contact"
-#  url: "/contact/"
-#  title: "Contact"#
+- menu_name: "Services"#
 
-#- name: "sitemap.xml"
-#  url: "/sitemap.xml"
-#  title: "Sitemap for Google Webmaster Tools"
+- name: "About Us"
+  url: "/info/"
+  title: "About Us"#
+
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"#
+  #"Contact"#
+# <a href="mailto:{{ site.contact }}">{{ site.contact }}</a>
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

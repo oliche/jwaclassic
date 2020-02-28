@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Pony"
+title: "Namco Pony"
 subheadline: ""
 header:
-    image_fullwidth: "banner_pony.jpg"
-permalink: "/pony/"
+    image_fullwidth: "banner-namco-pony.jpg"
+permalink: "/namco-pony/"
 lang: eng
 ---
 

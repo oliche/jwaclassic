@@ -6,37 +6,37 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: banner_talbot_rouge.jpg
+  image_fullwidth: banner-talbot-lago-t150C.jpg
 widget1:
   title: "Aston Martin International"
-  url: '/aston_martin_international/'
-  image: thumb_aston.jpg
+  url: '/aston-martin-international/'
+  image: thb-aston-martin-international-cadbury.jpg
   text: 'Aston Martin International'
 widget2:
   title: "Delahaye 135 Chapron"
-  url: '/delahaye_135_chapron/'
-  image: thumb_135.jpg
+  url: '/delahaye-135-chapron/'
+  image: thb-delahaye-type-135-chapron.jpg
   text: 'Delahaye 135 Chapron'
 widget3:
   title: "Delahaye 235 Breitling"
-  url: '/delahaye_235_breitling/'
-  image: thumb_ms235.jpg
+  url: '/delahaye-235-breitling/'
+  image: thb-delahaye-type-235-breitling.jpg
   text: 'Delahaye 235 Breitling'
 widget4:
   title: "Alfa Romeo Giulietta SS"
-  url: '/alfa_romeo_giulietta/'
-  image: thumb_alfa.jpg
+  url: '/alfa-romeo-giulietta-sprint-speciale/'
+  image: thb-alfa-romeo-giulieta-sprint-speciale.jpg
   text: 'Giulietta Sprint Speciale 1962'
 widget5:
-  title: "Pony"
-  url: '/pony/'
-  image: thumb_pony.jpg
-  text: 'Pony'
+  title: "Namco Pony"
+  url: '/namco-pony/'
+  image: thb-namco-pony.jpg
+  text: 'Namco Pony'
 widget6:
-  title: "Rochet Schneider"
-  url: '/rochet_schneider/'
-  image: thumb_rochet.jpg
-  text: 'Rochet Schneider'
+  title: "Rochet Schneider 26-Six"
+  url: '/rochet-schneider/'
+  image: thb-rochet-schneider-26-six.jpg
+  text: 'Rochet Schneider 26-Six'
 permalink: /index.html
 homepage: true
 lang: en
