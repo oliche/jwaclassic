@@ -13,8 +13,9 @@ header:
 # More pictures and resources on these Blogs:
 ---
 ## Djo is on Instagram !
-[Djowinter](https://www.instagram.com/djowinter/)
-
+<a href="https://www.instagram.com/djowinter/" title="">
+   <img src="{{site.baseurl}}/images/blogs/instagram-icon.png">
+</a>
 
 ## Restoration Projects
 Like most of passionates - we consider each project as an adventure.  

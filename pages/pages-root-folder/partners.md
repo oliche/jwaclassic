@@ -23,7 +23,9 @@ header:
      </a>
   </div>
   <div class="large-3 columns"><br>
-
+    <a href="https://www.levoiturist.com/" title="Le Voiturist">
+        <img src="{{site.baseurl}}/images/blogs/levoiturist.jpg"> Le Voiturist
+    </a>
   </div>
   <div class="large-3 columns"><br>
 

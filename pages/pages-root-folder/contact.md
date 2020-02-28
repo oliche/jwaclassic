@@ -7,7 +7,7 @@ subheadline: ""
 #teaser: "Get in touch !"
 permalink: "/contact/"
 header:
-    image_fullwidth: "banner-aston-martin-international-cadbury.png"
+    image_fullwidth: "banner-talbot-lago-t23-chapron-restoration.jpg"
 
 # Trade, Historical Researches, Restoration and Tuning especially for Delage, Delahaye and Talbot-Lago.
 # More pictures and resources on these Blogs:
