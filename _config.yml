@@ -9,7 +9,7 @@
 #
 # Title of your website
 title: 'JWA Classic'
-
+#remote_theme: Phlow/feeling-responsive@gh-pages
 # The slogan describes your website and is used on homepage in <title> and other important places
 #slogan: 'French Classic Cars: Delage, Delahaye, Talbot'
 slogan: 'French (mostly) classic car collector and enthusiast, enjoying touring and bringing back to life automobiles that are more than just automobiles.'
@@ -25,7 +25,7 @@ author: joe
 contact: contact@jwaclassic.com
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.jwaclassic.com'
+url: 'https://www.jwaclassic.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -39,7 +39,7 @@ improve_content:
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg:  'http://www.jwaclassic.com/images/'
+urlimg:  'https://www.jwaclassic.com/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -187,7 +187,7 @@ defaults:
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+#og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
 og_locale:                          'en_EN'
 og_type:                            'website'
 

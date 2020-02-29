@@ -7,7 +7,7 @@ subheadline: ""
 #teaser: "Get in touch !"
 permalink: "/partners/"
 header:
-    image_fullwidth: "banner-delahaye-type-135-chapron.png"
+    image_fullwidth: "banner-delahaye-type-135-135M-chapron.png"
 
 # Trade, Historical Researches, Restoration and Tuning especially for Delage, Delahaye and Talbot-Lago.
 # More pictures and resources on these Blogs:
@@ -19,12 +19,12 @@ header:
 <div class="row">
   <div class="large-3 columns"><br>
      <a href="https://www.teamcollection.fr/" title="Team Collection">
-        <img src="{{site.baseurl}}/images/blogs/teamcollection-fr.png"> Team Collection
+        <img src="{{site.baseurl}}/images/logo/teamcollection-fr.png"> Team Collection
      </a>
   </div>
   <div class="large-3 columns"><br>
     <a href="https://www.levoiturist.com/" title="Le Voiturist">
-        <img src="{{site.baseurl}}/images/blogs/levoiturist.jpg"> Le Voiturist
+        <img src="{{site.baseurl}}/images/logo/levoiturist.jpg"> Le Voiturist
     </a>
   </div>
   <div class="large-3 columns"><br>

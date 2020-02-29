@@ -1,4 +1,9 @@
-- menu_name: "Merci Beaucoup"
+- menu_name: "Site Credits"
+
+- name: "Feeling Responsive"
+  url: "https://phlow.github.io/feeling-responsive/"
+  class: "services-newsletter"
+  title: "Feeling Responsive - Jekyll Theme"
 
 - name: "Built on Foundation"
   url: "http://foundation.zurb.com/"

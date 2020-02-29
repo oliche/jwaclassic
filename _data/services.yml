@@ -1,15 +1,18 @@
 
 - menu_name: "Services"#
 
-- name: "About Us"
+- name: "About JWA Classic"
   url: "/info/"
   title: "About Us"#
 
 - name: "Contact"
   url: "/contact/"
   title: "Contact"#
-  #"Contact"#
-# <a href="mailto:{{ site.contact }}">{{ site.contact }}</a>
+
+- name: "Instagram"
+  url: "https://www.instagram.com/djowinter/"
+  title: "Instagram"#
+
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"

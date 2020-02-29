@@ -14,7 +14,7 @@ header:
 ---
 ## Djo is on Instagram !
 <a href="https://www.instagram.com/djowinter/" title="">
-   <img src="{{site.baseurl}}/images/blogs/instagram-icon.png">
+   <img src="{{site.baseurl}}/images/logo/instagram-icon.png">
 </a>
 
 ## Restoration Projects
@@ -24,7 +24,7 @@ From the technical aspects to each car specific history, Joel maintains blogs re
 <div class="row">
   <div class="large-3 columns"><br>
      <a href="https://delahaye135m801025.blogspot.com/" title="Delahaye Type 135 Chapron">
-        <img src="{{site.baseurl}}/images/blogs/delahaye-type-135-chapron-thb.jpg"> Delahaye Type 135 Chapron
+        <img src="{{site.baseurl}}/images/blogs/delahaye-type-135-135M-chapron-thb.jpg"> Delahaye Type 135 Chapron
      </a>
   </div>
   <div class="large-3 columns"><br>
@@ -34,7 +34,7 @@ From the technical aspects to each car specific history, Joel maintains blogs re
   </div>
   <div class="large-3 columns"><br>
      <a href="https://delahaye135msvedette.blogspot.com/" title="Delahaye Type 135MS Cabriolet Vedette">
-        <img src="{{site.baseurl}}/images/blogs/delahaye-type-135-MS-cabriolet-chapron-thb.jpg"> Delahaye Type 135MS Cabriolet Vedette
+        <img src="{{site.baseurl}}/images/blogs/delahaye-type-135-135MS-cabriolet-chapron-thb.jpg"> Delahaye Type 135MS Cabriolet Vedette
      </a>
   </div>
   <div class="large-3 columns"><br>

@@ -4,7 +4,7 @@ show_meta: false
 title: "Alfa Romeo Giulietta Sprint Speciale - 1962"
 subheadline: ""
 header:
-    image_fullwidth: "banner-alfa-romeo-giulieta-sprint-speciale.jpg"
+    image_fullwidth: "banner-alfa-romeo-giulietta-sprint-speciale.jpg"
 permalink: "/alfa-romeo-giulietta-sprint-speciale/"
 lang: eng
 ---

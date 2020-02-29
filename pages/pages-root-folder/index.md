@@ -8,15 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: banner-talbot-lago-t150C.jpg
 widget1:
-  title: "Aston Martin International"
-  url: '/aston-martin-international/'
+  title: "Aston Martin"
+  url: '/aston-martin-international-cadbury/'
   image: thb-aston-martin-international-cadbury.jpg
   text: 'Aston Martin International'
 widget2:
-  title: "Delahaye 135 Chapron"
-  url: '/delahaye-135-chapron/'
-  image: thb-delahaye-type-135-chapron.jpg
-  text: 'Delahaye 135 Chapron'
+  title: "Delahaye 135-M Chapron"
+  url: '/delahaye-135-135M-chapron/'
+  image: thb-delahaye-type-135-135M-chapron.jpg
+  text: 'Delahaye 135-M Chapron'
 widget3:
   title: "Delahaye 235 Breitling"
   url: '/delahaye-235-breitling/'
@@ -25,13 +25,13 @@ widget3:
 widget4:
   title: "Alfa Romeo Giulietta SS"
   url: '/alfa-romeo-giulietta-sprint-speciale/'
-  image: thb-alfa-romeo-giulieta-sprint-speciale.jpg
+  image: thb-alfa-romeo-giulietta-sprint-speciale.jpg
   text: 'Giulietta Sprint Speciale 1962'
 widget5:
-  title: "Namco Pony"
+  title: "Namco-Citroen Pony"
   url: '/namco-citroen-pony/'
-  image: thb-namco-pony.jpg
-  text: 'Namco Pony'
+  image: thb-namco-citroen-pony.jpg
+  text: 'Namco-Citroen Pony'
 widget6:
   title: "Rochet Schneider 26-Six"
   url: '/rochet-schneider/'

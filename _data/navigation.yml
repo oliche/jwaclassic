@@ -27,10 +27,10 @@
 - title: "For sale"
   side: right
   dropdown:
-  - title: "Delahaye 135"
-    url: "/delahaye-135-chapron/"
+  - title: "Delahaye 135-M"
+    url: "/delahaye-135-135M-chapron/"
   - title: "Aston Martin"
-    url: "/aston-martin-international/"
+    url: "/aston-martin-international-cadbury/"
 
 - title: "Restoration"
   side: right

@@ -1,11 +1,11 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Aston Martin International 1931"
+title: "Aston Martin International 1931 - Cadbury"
 subheadline: ""
 header:
     image_fullwidth: "banner-aston-martin-international-cadbury.png"
-permalink: "/aston-martin-international/"
+permalink: "/aston-martin-international-cadbury/"
 lang: eng
 
 ---

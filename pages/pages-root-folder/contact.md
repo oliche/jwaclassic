@@ -13,7 +13,7 @@ header:
 # More pictures and resources on these Blogs:
 ---
 
-## Contact Us
+## Contact
 You can reach us by email at: [contact@jwaclassic.com](mailto:contact@jwaclassic.com)
 
 Or leave your email and a message below and we will contact you:
