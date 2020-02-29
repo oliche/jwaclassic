@@ -29,7 +29,7 @@ widget4:
   text: 'Giulietta Sprint Speciale 1962'
 widget5:
   title: "Namco Pony"
-  url: '/namco-pony/'
+  url: '/namco-citroen-pony/'
   image: thb-namco-pony.jpg
   text: 'Namco Pony'
 widget6:
