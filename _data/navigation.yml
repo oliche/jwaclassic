@@ -23,23 +23,29 @@
 #  side: right
 #  dropdown:
 
+########################## Ordre Alphabetique ###################################
 
 - title: "For sale"
   side: right
   dropdown:
-  - title: "Delahaye 135-M"
-    url: "/delahaye-135-135M-chapron/"
   - title: "Aston Martin"
     url: "/aston-martin-international-cadbury/"
+  - title: "Delahaye 135-M"
+    url: "/delahaye-135-135M-chapron/"
+
 
 - title: "Restoration"
   side: right
   dropdown:
-  - title: "Delahaye 235"
-    url: "/delahaye-235-breitling/"
   - title: "Alfa Giulietta SS"
     url: "/alfa-romeo-giulietta-sprint-speciale/"
+  - title: "Delage D8-120 Chapron"
+    url: "/delage-d8-120-chapron/"
+  - title: "Delahaye 235"
+    url: "/delahaye-235-breitling/"
   - title: "Namco-Citroen Pony"
     url: "/namco-citroen-pony/"
   - title: "Rochet Schneider"
     url: "/rochet-schneider/"
+  - title: "Talbot-Lago T23 Chapron"
+    url: "/talbot-lago-t23-baby-chapron/"

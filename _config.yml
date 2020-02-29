@@ -14,7 +14,7 @@ title: 'JWA Classic'
 #slogan: 'French Classic Cars: Delage, Delahaye, Talbot'
 slogan: 'French (mostly) classic car collector and enthusiast, enjoying touring and bringing back to life automobiles that are more than just automobiles.'
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Trade, historical researches and restoration of (mostly) French Classic Cars: Delage, Delahaye, Talbot"
+description: "Trade, historical researches and restoration of (mostly) French Classic Cars - Delage, Delahaye, Talbot-Lago"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
