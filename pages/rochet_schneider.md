@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Rochet Schneider 26 Six"
-subheadline: ""
+subheadline: '1930 - Billeter et Cartier - Serie 29500'
 header:
     image_fullwidth: "banner-rochet-schneider-26-six.jpg"
 permalink: "/rochet-schneider/"
@@ -54,3 +54,9 @@ But the industrial crisis put an end to the high hopes of the marquee and to the
 ![Pic](/images/p-rochet-scheider-26-six/rochet-schneider-26-six-3.jpg)
 
 ### More pictures and resources on this [*Blog*](https://rochetschneider26six.blogspot.com/).
+
+<ul>
+    {% for post in site.categories.historique %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

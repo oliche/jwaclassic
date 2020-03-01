@@ -7,17 +7,39 @@ subheadline: ""
 #teaser: "Get in touch !"
 permalink: "/blogs/"
 header:
-    image_fullwidth: "banner-delahaye-type-235-breitling.jpg"
+    image_fullwidth: "banner-delahaye-type-235-235m-breitling.jpg"
 
 # Trade, Historical Researches, Restoration and Tuning especially for Delage, Delahaye and Talbot-Lago.
 # More pictures and resources on these Blogs:
 ---
-## Djo is on Instagram !
-<a href="https://www.instagram.com/djowinter/" title="">
-   <img src="{{site.baseurl}}/images/logo/instagram-icon.png">
-</a>
+## JWA Classic Contents
 
-## Restoration Projects
+<div class="row">
+  <div class="large-3 columns"><br>
+    <a href="https://www.instagram.com/djowinter/" title="">
+       <img src="{{site.baseurl}}/images/logo/instagram-icon.png" width="90" height="90"> Instagram
+    </a>
+  </div>
+  <div class="large-3 columns"><br>
+    <a href="https://www.blogger.com/profile/05187276044186456640" title="">
+       <img src="{{site.baseurl}}/images/logo/blogger-icon.png" width="90" height="90" > Blogger
+    </a>
+  </div>
+  <div class="large-3 columns"><br>
+    <a href="https://www.youtube.com/channel/UCASbVjFmEmPknllmG_0_2vw" title="">
+       <img src="{{site.baseurl}}/images/logo/youtube-icon.png" width="90" height="90"> Youtube
+    </a>
+  </div>
+  <div class="large-3 columns"><br>
+
+  </div>
+</div>
+
+
+
+
+
+## Restoration Blogs
 Like most of passionates - we consider each project as an adventure.  
 From the technical aspects to each car specific history, Joel maintains blogs regularly and updates the progress for specific models.
 
@@ -61,9 +83,29 @@ From the technical aspects to each car specific history, Joel maintains blogs re
      </a>
   </div>
   <div class="large-3 columns"><br>
+      <a href="https://giulietta1300ss.blogspot.com/" title="Alfa Romeo Giulietta Sprint Speciale 1300-SS">
+         <img src="{{site.baseurl}}/images/blogs/alfa-romeo-giulietta-sprint-speciale-1300-ss-thb.jpg"> Alfa Romeo Giulietta Sprint Speciale 1300-SS
+      </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-3 columns"><br>
+     <a href="https://delahaye135msfigoni.blogspot.com/" title="Delahaye 135-MS Coach Figoni">
+        <img src="{{site.baseurl}}/images/blogs/delahaye-type-135-135MS-coach-figoni.jpg"> Delahaye 135-MS Coach Figoni
+     </a>
+  </div>
+  <div class="large-3 columns"><br>
+
+  </div>
+  <div class="large-3 columns"><br>
+
+  </div>
+  <div class="large-3 columns"><br>
 
   </div>
 </div>
+
 
 
 ## Delahaye 235 registry

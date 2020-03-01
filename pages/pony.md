@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Namco-Citroen Pony"
-subheadline: ""
+subheadline: "1978 - Pony Original"
 header:
     image_fullwidth: "banner-namco-citroen-pony.jpg"
 permalink: "/namco-citroen-pony/"
@@ -30,3 +30,10 @@ Nicknamed the "poor man jeep", the originality of the Pony (and the FAF and Baby
 The chassis and mechanical piece are based on the Dyane 6, a simple 602cm2 flat twin developing a meagre 32hp at 5750rpm with a top speed announced at 118km/h. Just enough to power the economical 640kg (Curb weight) Pony.
 
 ![Pic](/images/p-namco-citroen-pony/namco-citroen-pony-5.jpg)
+
+
+<ul>
+    {% for post in site.categories.historique %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>

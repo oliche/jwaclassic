@@ -7,7 +7,7 @@ subheadline: ""
 #teaser: "Get in touch !"
 permalink: "/partners/"
 header:
-    image_fullwidth: "banner-delahaye-type-135-135M-chapron.png"
+    image_fullwidth: "banner-delahaye-type-135-135m-chapron.png"
 
 # Trade, Historical Researches, Restoration and Tuning especially for Delage, Delahaye and Talbot-Lago.
 # More pictures and resources on these Blogs:

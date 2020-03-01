@@ -1,12 +1,13 @@
 - title: Home
   url: "/"
   side: left
+- title: Blogs
+  url: "/blogs/"
+  side: left
 - title: About Us
   side: left
   dropdown:
-  - title: "Blogs"
-    url: "/blogs/"
-  - title: "Our Mission"
+  - title: "Mission"
     url: "/info/"
   - title: "Partners"
     url: "/partners/"
@@ -28,24 +29,26 @@
 - title: "For sale"
   side: right
   dropdown:
-  - title: "Aston Martin"
+  - title: "Aston Martin International"
     url: "/aston-martin-international-cadbury/"
-  - title: "Delahaye 135-M"
-    url: "/delahaye-135-135M-chapron/"
+  - title: "Delahaye 135-M Chapron"
+    url: "/delahaye-135-135m-chapron/"
 
 
 - title: "Restoration"
   side: right
   dropdown:
-  - title: "Alfa Giulietta SS"
-    url: "/alfa-romeo-giulietta-sprint-speciale/"
+  - title: "Alfa Giulietta 1300-SS"
+    url: "/alfa-romeo-giulietta-sprint-speciale-1300-ss/"
   - title: "Delage D8-120 Chapron"
     url: "/delage-d8-120-chapron/"
-  - title: "Delahaye 235"
-    url: "/delahaye-235-breitling/"
+  - title: "Delahaye 135-MS Figoni"
+    url: "/delahaye-135-135ms-figoni/"
+  - title: "Delahaye 235-M Chapron"
+    url: "/delahaye-235-235m-breitling/"
   - title: "Namco-Citroen Pony"
     url: "/namco-citroen-pony/"
-  - title: "Rochet Schneider"
+  - title: "Rochet Schneider 26 Six"
     url: "/rochet-schneider/"
-  - title: "Talbot-Lago T23 Chapron"
+  - title: "Talbot-Lago T23 Baby"
     url: "/talbot-lago-t23-baby-chapron/"
