@@ -9,3 +9,8 @@
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
   title: "Built on Foundation"
+
+- name: "Created with Jekyll"
+  url: "https://jekyllrb.com/"
+  class: "services-newsletter"
+  title: "Created with Jekyll"

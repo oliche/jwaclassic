@@ -17,17 +17,17 @@ header:
 <div class="row">
   <div class="large-3 columns"><br>
     <a href="https://www.instagram.com/djowinter/" title="">
-       <img src="{{site.baseurl}}/images/logo/instagram-icon.png" width="90" height="90"> Instagram
+       <img src="{{site.baseurl}}/images/logo/instagram-icon.png" width="80" height="80"> Instagram
     </a>
   </div>
   <div class="large-3 columns"><br>
     <a href="https://www.blogger.com/profile/05187276044186456640" title="">
-       <img src="{{site.baseurl}}/images/logo/blogger-icon.png" width="90" height="90" > Blogger
+       <img src="{{site.baseurl}}/images/logo/blogger-icon.png" width="80" height="80" > Blogger
     </a>
   </div>
   <div class="large-3 columns"><br>
-    <a href="https://www.youtube.com/channel/UCASbVjFmEmPknllmG_0_2vw" title="">
-       <img src="{{site.baseurl}}/images/logo/youtube-icon.png" width="90" height="90"> Youtube
+    <a href="https://www.youtube.com/channel/UCaVQagkO5yhqmBjz7kdXQ8g" title="">
+       <img src="{{site.baseurl}}/images/logo/youtube-icon.png" width="80" height="80"> Youtube
     </a>
   </div>
   <div class="large-3 columns"><br>

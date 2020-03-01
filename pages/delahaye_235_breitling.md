@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 title: "Delahaye 235 - Breitling"
-subheadline: "1952 - Cabriolet Chapron Type 235-M"
+subheadline: "1952 - Cabriolet Chapron Type 235"
 header:
     image_fullwidth: "banner-delahaye-type-235-235m-breitling.jpg"
 permalink: "/delahaye-235-235m-breitling/"

@@ -14,9 +14,11 @@ header:
 ---
 
 ## Contact
-You have a question about a car or a restoration ?   
-You want to know more about prewar french classic cars ?   
-You can reach us by email at: [contact@jwaclassic.com](mailto:contact@jwaclassic.com)
+A question about a car or a restoration ?   
+Want to know more about prewar French classic automobiles ?   
+Or just want to discuss about technical or historical matters related to French vintage cars ?
+
+We are happy to look into it if you contact us at [contact@jwaclassic.com](mailto:contact@jwaclassic.com)
 
 Or leave your email and a message below and we will contact you:
 

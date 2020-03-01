@@ -24,7 +24,7 @@ widget3:
   title: "Delahaye 235 Breitling"
   url: '/delahaye-235-235m-breitling/'
   image: thb-delahaye-type-235-235m-breitling.jpg
-  text: '1952 - Cabriolet Chapron Type 235-M'
+  text: '1952 - Cabriolet Chapron Type 235'
 
 widget4:
   title: "Talbot-Lago T23 Baby"
