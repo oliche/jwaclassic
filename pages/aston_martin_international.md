@@ -14,6 +14,7 @@ lang: eng
 
 ## Overview
 ![Pic](/images/p-aston-martin-international/aston-martin-international-cadbury-1.jpg)
+
 In 1926, Augustus Bertelli, Bill Renwick and a group of investors took over the then financially troubled car maker and renamed it Aston Martin Motors. From 1926 to 1937, Bertelli lead the brand as technical director, designer and pilot, producing and racing outstanding sports cars. Using the previous technological marvel developped with Renwick, Aston Martin introduced an overhead cam four cylinder derived from the "BuzzBox" to develop the 1.5 liter First Series, among which the "T-Type", "Standards Sports Model" and the "International".
 
 ![Pic](/images/p-aston-martin-international/aston-martin-international-cadbury-2.jpg)
