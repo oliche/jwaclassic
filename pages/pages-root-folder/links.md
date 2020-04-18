@@ -28,7 +28,7 @@ header:
     </a>
   </div>
   <div class="large-3 columns"><br>
-    <a href="http://www.henrichapron.com/Henri_Chapron/LOGO_Henri_Chapron.html" title="Henri Chapron">
+    <a href="http://www.henrichapron.com/Henri_Chapron/Home.html" title="Henri Chapron">
         <img src="{{site.baseurl}}/images/logo/chapron-logo.jpg"  width="210" height="150"><br> Henri Chapron
     </a>
   </div>
