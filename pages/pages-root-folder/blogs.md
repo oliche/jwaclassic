@@ -16,8 +16,8 @@ header:
 
 <div class="row">
   <div class="large-3 columns"><br>
-    <a href="https://www.instagram.com/djowinter/" title="">
-       <img src="{{site.baseurl}}/images/logo/instagram-icon.png" width="80" height="80"> Instagram
+  <a href="https://www.facebook.com/JWAClassic/" title="">
+      <img src="{{site.baseurl}}/images/logo/facebook-icon.png" width="80" height="80"> Facebook
     </a>
   </div>
   <div class="large-3 columns"><br>
@@ -31,7 +31,9 @@ header:
     </a>
   </div>
   <div class="large-3 columns"><br>
-
+  <a href="https://www.instagram.com/djowinter/" title="">
+     <img src="{{site.baseurl}}/images/logo/instagram-icon.png" width="80" height="80"> Instagram
+  </a>
   </div>
 </div>
 

@@ -4,17 +4,17 @@
 - title: Blogs
   url: "/blogs/"
   side: left
-- title: About Us
+- title: About
   side: left
   dropdown:
-  - title: "Mission"
+  - title: "JWA Classic"
     url: "/info/"
-  - title: "Partners"
-    url: "/partners/"
   - title: "Location"
     url: "/location/"
   - title: "Contact"
     url: "/contact/"
+  - title: "Links"
+    url: "/links/"
 
 #  dropdown:
 #  - title: "Grid & Colors"

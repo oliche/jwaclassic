@@ -1,4 +1,7 @@
-
+- name: Facebook
+  url: https://www.facebook.com/JWAClassic/
+  class: icon-facebook
+  title: ""
 
 - name: Instagram
   url: https://www.instagram.com/djowinter/

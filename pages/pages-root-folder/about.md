@@ -22,7 +22,7 @@ After a successful entrepreneur career in actuarial consultancy (JWA and Winter 
 He established JWA Classic in 2003 in Belmont-de-la-Loire and has been collecting, restoring and touring classic cars since then.
 
 ### Philosophy
-There is a great satisfaction in bringing back to life automobiles that are more than just automobiles.   
+<blockquote> There is a great satisfaction in bringing back to life automobiles that are more than just automobiles.  </blockquote>
 To this extent - French classic cars such as Delage, Delahaye and Talbot-Lago are unique thanks to their history and custom bodyworks.    
 In JWA Classic, we enjoy unraveling the past of great cars, restoring them to their prime and tour them on the beautiful roads of France countryside.
 
