@@ -1,4 +1,4 @@
-- menu_name: "Site Credits"
+- menu_name: "Credits"
 
 - name: "Feeling Responsive"
   url: "https://phlow.github.io/feeling-responsive/"
@@ -14,3 +14,7 @@
   url: "https://jekyllrb.com/"
   class: "services-newsletter"
   title: "Created with Jekyll"
+
+- name: "Sitemap"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

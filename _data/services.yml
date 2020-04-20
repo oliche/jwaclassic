@@ -1,19 +1,18 @@
 
-- menu_name: "Services"#
+- menu_name: "About"#
 
-- name: "About JWA Classic"
+- name: "JWA Classic"
   url: "/info/"
   title: "About Us"#
-
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"#
 
 - name: "Instagram"
   url: "https://www.instagram.com/djowinter/"
   title: "Instagram"#
 
+- name: "Facebook"
+  url: "https://www.facebook.com/JWAClassic/"
+  title: "Facebook"#
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: "Youtube"
+  url: "https://www.youtube.com/channel/UCaVQagkO5yhqmBjz7kdXQ8g/"
+  title: "Youtube"#
