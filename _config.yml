@@ -9,15 +9,17 @@
 #
 # Title of your website
 title: 'JWA Classic'
-
+#remote_theme: Phlow/feeling-responsive@gh-pages
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Delage, Delahaye, Talbot'
-
+#slogan: 'French Classic Cars: Delage, Delahaye, Talbot'
+slogan: 'French (mostly) classic car collector and enthusiast, enjoying touring and bringing back to life automobiles that are more than just automobiles.'
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "JWA Classic"
+description: "Trade, historical researches and restoration of (mostly) French Classic Cars - Delage, Delahaye, Talbot-Lago"
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# credits: '<p>Created  with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# moved the credits to Subfooter
+credits: "French Classic Cars"
 
 # Main author of the website
 # See > authors.yml
@@ -25,7 +27,7 @@ author: joe
 contact: contact@jwaclassic.com
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.jwaclassic.com'
+url: 'https://www.jwaclassic.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -39,7 +41,7 @@ improve_content:
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 #urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg:  'http://www.jwaclassic.com/images/'
+urlimg:  'https://www.jwaclassic.com/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
@@ -83,7 +85,7 @@ exclude:
     - build_local.sh
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'fr'
+language: 'eng'
 
 # Language support provided by polyglot plugin
 languages: ["en"]
@@ -187,7 +189,7 @@ defaults:
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+#og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
 og_locale:                          'en_EN'
 og_type:                            'website'
 

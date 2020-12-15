@@ -1,12 +1,31 @@
+- name: Facebook
+  url: https://www.facebook.com/JWAClassic/
+  class: icon-facebook
+  title: ""
+
+- name: Instagram
+  url: https://www.instagram.com/djowinter/
+  class: icon-instagram
+  title: ""
+
+- name: Blogger
+  url: https://www.blogger.com/profile/05187276044186456640
+  class: icon-edit
+  title: ""
+
+- name: YouTube
+  url: https://www.youtube.com/channel/UCaVQagkO5yhqmBjz7kdXQ8g
+  class: icon-youtube
+  title: ""
+
+
+
 # name: GitHub
 #  url: http://github.com/phlow
 #  class: icon-github
 #  title: Code und mehr...#
 
-#- name: YouTube
-#  url: http://www.youtube.com/PhlowMedia
-#  class: icon-youtube
-#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"#
+
 
 #- name: Twitter
 #  url: http://twitter.com/phlow
@@ -33,10 +52,7 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
